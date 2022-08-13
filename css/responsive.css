@@ -1,0 +1,6227 @@
+@media (min-width:320px) and (max-width:399px){
+
+    /* ------------------ Home page index.html css start -------------------- */
+    .title {
+        margin-bottom: 20px;
+    }
+    
+    .title h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    
+    .title h6 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    
+    p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    
+    /* ------------------------
+        common part end
+    ------------------------------*/
+    
+    /* ------------------------
+           nav part start
+    ------------------------------*/
+    
+    nav .navbar-brand img{
+        width: 60%;
+    }
+    
+    .navbar-light .navbar-toggler {
+        font-size: 23px;
+        margin-top: 10px;
+        border-color: transparent;
+    }
+    
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 ;
+    } 
+    
+    nav .navbar-nav .nav-item{
+        text-align: center;
+    }
+    
+    .nav-button {
+        width: 110px;
+        margin:0 auto ;
+    }
+
+    nav .nav-item .nav-link::after {
+        display: none;
+    }
+    
+    /* ------------------------
+           nav part end
+    ------------------------------*/
+    
+    /* ------------------------
+        banner part start
+    ------------------------------*/
+    #banner-part {
+        margin-bottom: 50px;
+    }
+    
+    #banner-part .details-part {
+        margin-top: 50px;
+    }
+    
+    #banner-part .details-part h6 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    
+    #banner-part .details-part h1 {
+        font-size: 30px;
+        line-height: 40px;
+        width: auto;
+    }
+    
+    #banner-part .details-part p {
+        margin-bottom: 20px;
+        width: auto;
+    }
+    
+    #banner-part .banner-button {
+        width: 135px;
+    }
+    
+    #banner-part .banner-button .button {
+        width: 135px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+    
+    #banner-part .play-icon {
+        width: 40px;
+        height: 40px;
+        line-height: 42px;
+        margin-top: 3px;
+    }
+    
+    #banner-part .play-icon i {
+        font-size: 16px;
+    }
+    
+    #banner-part .banner-img{
+        text-align: center;
+        margin-top: 5px;
+    }
+    
+    #banner-part .banner-img img{
+        width: 65%;
+        margin-top: 10px;
+    }
+    
+    #banner-part .banner-img .dot-shape {
+        bottom: 1px;
+        right: 80px;
+        width: 20%;
+    }
+    
+    #banner-part .row{
+        flex-direction: column-reverse;
+    }
+    
+    #banner-part .banner-left-shape {
+        display: none;
+    }
+    
+    /* ------------------------
+         banner part end
+    ------------------------------*/
+    
+    /* ------------------------
+         brand part start
+    ------------------------------*/
+    #brand-part {
+        margin-bottom: 50px;
+    }
+    
+    #brand-part .brand-box {
+        padding: 30px 20px;
+    }
+    
+    #brand-part .brand-box h3 {
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+    
+    #brand-part .brand-slider img {
+        margin-left: 10px;
+        width: 85%;
+    }
+    
+    
+    /* ------------------------
+         brand part end
+    ------------------------------*/
+    
+    /* ------------------------
+         about part start
+    ------------------------------*/
+    #about-part {
+        margin-bottom: 60px;
+    }
+    
+    #about-part .about-shape .shape-img {
+        display: none;
+    }
+    
+    #about-part .about-img{
+        text-align: center;
+    }
+    
+    #about-part .about-img img{
+        width: 65%;
+    }
+    
+    #about-part h6 {
+        margin-bottom: 20px;
+    }
+    
+    #about-part .details{
+        margin-top: 40px
+    }
+    
+    #about-part .details p {
+        margin-bottom: 25px;
+    }
+    
+    #about-part .details ul {
+        margin-bottom: 25px;
+    }
+    
+    #about-part .details ul li {
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    
+    #about-part .details ul li i {
+        width: 16px;
+        height: 16px;
+        line-height: 17px;
+        font-size: 9px;
+    }
+    
+    #about-part .details .about-button {
+        width: 135px;
+    }
+    
+    #about-part .details .about-button .button {
+        width: 135px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+    
+    #about-part .about-img .round-shape {
+        display: none;
+    }
+    
+    #about-part .shape-two {
+        display: none;
+    }
+    
+    /* ------------------------
+         about part end
+    ------------------------------*/
+    
+    /* ------------------------
+        marketing part start
+    ------------------------------*/
+    #marketing-part {
+        margin-bottom: 60px;
+    }
+    
+    #marketing-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #marketing-part .marketing-shape .shape-img {
+        display: none;
+    }
+    
+    #marketing-part .title h1 {
+        width: auto;
+    }
+    
+    #marketing-part .top {
+        margin-bottom: 0px;
+    }
+    
+    #marketing-part .item {
+        margin-top: 20px;
+    }
+    
+    #marketing-part .item h4 {
+        margin-bottom: 20px;
+        margin-top: 25px;
+    }
+    
+    #marketing-part .item p {
+        margin-bottom: 20px;
+        font-size: 15px;
+    }
+    
+    #marketing-part .title .round-shape {
+        display: none;
+    }
+    
+    /* ------------------------
+        marketing part end
+    ------------------------------*/
+    
+    /* ------------------------
+        boost part start
+    ------------------------------*/
+    #boosts-part {
+        margin-bottom: 60px;
+    }
+    
+    #boosts-part .boosts-details {
+        margin-top: 40px;
+    }
+    
+    #boosts-part .boosts-details .input-group {
+        height: 43px;
+        margin-top: 35px;
+    }
+    
+    #boosts-part .boosts-details .input-group .form-control {
+        font-size: 12px;
+    }
+    
+    #boosts-part .boosts-details .boosts-button {
+        width: 160px;
+        margin-top: 35px;
+    }
+    
+    #boosts-part .boosts-details .boosts-button .button {
+        width: 160px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+    
+    #boosts-part .boosts-img{
+        text-align: center;
+    }
+    
+    #boosts-part .boosts-img img{
+        width: 65%;
+    }
+    
+    #boosts-part .row{
+        flex-direction: column-reverse;
+    }
+    
+    /* ------------------------
+        boost part end
+    ------------------------------*/
+    
+    /* ------------------------
+        pricing part start
+    ------------------------------*/
+    #pricing-part {
+        margin-bottom: 60px;
+    }
+    
+    #pricing-part .main-item {
+        display: block;
+    }
+    
+    #pricing-part .item {
+        margin-top: 40px;
+    }
+    
+    #pricing-part .main-item .item .img img{
+        width: 22%;
+    }
+    
+    #pricing-part .item ul li {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    
+    #pricing-part .item h1 {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    
+    #pricing-part .item .price-button {
+        width: 160px;
+    }
+    
+    #pricing-part .item .price-button .item-button {
+        width: 160px;
+        height: 45px;
+        font-size: 16px;
+        line-height: 45px;
+    }
+    
+    #pricing-part .regular-item {
+       padding: 40px;
+        position: static !important;
+       width: 100%;
+       margin-top: 40px;
+    }
+    
+    #pricing-part .main-item .regular-item .img img{
+        width: 22%;
+    }
+    
+    #pricing-part .regular-item ul li {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    
+    #pricing-part .regular-item h1 {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    
+    #pricing-part .regular-item .price-button {
+        width: 160px;
+    }
+    
+    #pricing-part .regular-item .price-button .item-button {
+        width: 160px;
+        height: 45px;
+        font-size: 16px;
+        line-height: 45px;
+    }
+    
+    #pricing-part .title h1 {
+        width: auto;
+    }
+    
+    #pricing-part .title .round-shape {
+        display: none;
+    }
+    
+    #pricing-part .shape-one {
+        display: none;
+    }
+    
+    /* ------------------------
+        pricing part end
+    ------------------------------*/
+    
+    /* ------------------------
+        success part end
+    ------------------------------*/
+    #success-part {
+        margin-bottom: 60px;
+    }
+    
+    #success-part .success-img{
+        text-align: center;
+    }
+    
+    #success-part .success-img img{
+        width: 65%;
+    }
+    
+    #success-part .success-details{
+        margin-top: 40px;
+    }
+    
+    #success-part .success-details .title h1 {
+        width: auto;
+    }
+    
+    #success-part .success-details .count-part {
+        margin-top: 20px;
+        text-align: center;
+    }
+    
+    #success-part .success-details .count-part .left-count{
+        margin-bottom: 30px;
+    }
+    
+    #success-part .success-details .count-part .left-count h2 {
+        font-size: 35px;
+    }
+    
+    #success-part .success-details .count-part .left-count h6 {
+        width: auto;
+    }
+    
+    #success-part .success-details .count-part .middle-count{
+        margin-bottom: 30px;
+    }
+    
+    #success-part .success-details .count-part .middle-count h2 {
+        font-size: 35px;
+    }
+    
+    #success-part .success-details .count-part .middle-count h6 {
+        width: auto;
+    }
+    
+    #success-part .success-details .count-part .right-count{
+        margin-bottom: 30px;
+    }
+    
+    #success-part .success-details .count-part .right-count h2 {
+        font-size: 35px;
+    }
+    
+    #success-part .success-details .count-part .right-count h6 {
+        width: auto;
+    }
+    
+    #success-part .success-details .success-button{
+        width: 190px;
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+    
+    #success-part .success-details .success-button .button {
+        width: 190px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 15px;
+    }
+    
+    
+    /* ------------------------
+        success part end
+    ------------------------------*/
+    
+    /* ------------------------
+        services part start
+    ------------------------------*/
+    #services-part {
+        margin-bottom: 60px;
+    }
+    
+    #services-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #services-part .title h1 {
+        width: auto;
+    }
+    
+    #services-part .services-slider .slider-box {
+        background: #ffffff;
+        padding: 35px 30px;
+        border-radius: 20px;
+        margin-bottom: 30px;
+    }
+    
+    #services-part .services-slider .slick-list {
+        padding-bottom: 130px !important;
+    }
+    
+    #services-part .services-slider .slider-box p {
+        padding: 0 10px;
+        margin-top: 20px;
+        text-align: justify;
+        line-height: 20px;
+    }
+    
+    #services-part .services-slider .slider-box .icon i {
+        font-size: 16px;
+    }
+    
+    #services-part .services-slider .slider-box .icon {
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+    
+    #services-part .services-img{
+        text-align: center;
+        margin-top: 120px;
+    }
+    
+    #services-part .services-img img{
+        width: 65%;
+    }
+    
+    #services-part .services-img .dot-shape {
+        bottom: 0px;
+        right: 65px;
+        width: 30%;
+    }
+    
+    #services-part .prev {
+        width: 30px;
+        height: 30px;
+        line-height: 29px;
+        font-size: 15px;
+        top: 107%;
+        left: 38%;
+        z-index: 3;
+    }
+    
+    #services-part .next {
+        width: 30px;
+        height: 30px;
+        line-height: 29px;
+        font-size: 15px;
+        top: 107%;
+        left: 48%;
+    }
+    
+    #services-part .shape-two {
+        display: none;
+    }
+    
+    /* ------------------------
+        services part end
+    ------------------------------*/
+    
+    /* ------------------------
+        studies part start
+    ------------------------------*/
+    #studies-part {
+        margin-bottom: 30px;
+    }
+    
+    #studies-part .bg-box {
+        padding: 65px 20px 30px 20px;
+    }
+    
+    #studies-part .slick-dots {
+        margin-top: 40px;
+        padding-left: 0;
+    }
+    
+    #studies-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #studies-part .title h1 {
+        width: auto;
+    }
+
+    #studies-part .studies-slider .studies-item .img img {
+        width: 100%;
+    }
+
+    #studies-part .studies-slider .studies-item h3 {
+        width: auto;
+    }
+    
+    /* ------------------------
+        studies part end
+    ------------------------------*/
+    
+    /* ------------------------
+        news part start
+    ------------------------------*/
+    #news-part {
+        margin-bottom: 60px;
+    }
+    
+    #news-part .news-img{
+        text-align: center;
+    }
+    
+    #news-part .news-img img{
+        width: 65%;
+    }
+    
+    #news-part .news-details{
+        margin-top: 40px;
+        text-align: center;
+    }
+    
+    #news-part .news-details .input-group {
+        width: 300px;
+        height: 45px;
+        margin-top: 30px !important;
+        margin: 0 auto;
+    }
+    
+    #news-part .news-details .input-group .form-control {
+        font-size: 13px;
+    }
+    
+    #news-part .news-details .news-button{
+        width: 160px;
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+    
+    #news-part .news-details .news-button .button {
+        width: 160px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+    
+    #news-part .news-details .round-shape {
+        display: none;
+    }
+    
+    #news-part .shape-one {
+        display: none;
+    }
+    
+    /* ------------------------
+        news part end
+    ------------------------------*/
+    
+    /* ------------------------
+        footer part start
+    ------------------------------*/
+    
+    #footer-part {
+        margin-bottom: 30px;
+    }
+    
+    #footer-part .footer-contain-bg {
+        padding: 40px 0px 0px 0px;
+    }
+    
+    #footer-part .left-item {
+        text-align: center;
+    }
+    
+    #footer-part .left-item .logo img{
+        width: 30%;
+    }
+    
+    #footer-part .left-item p {
+        font-size: 15px;
+        margin-top: 25px !important;
+        margin: 0 auto;
+    }
+    
+    #footer-part .middle-item {
+        margin-top: 30px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    #footer-part .middle-item ul {
+        margin-top: 15px;
+    }
+    
+    #footer-part .right-item{
+        text-align: center;
+        margin-top: 30px;
+    }
+    
+    #footer-part .right-item address {
+        margin-top: 20px;
+    }
+    
+    #footer-part .right-item address figure {
+        font-size: 15px;
+        margin-bottom: 12px !important;
+        margin: 0 auto;
+    }
+    
+    #footer-part .footer-contain-bg .main-item {
+        padding-bottom: 39px;
+    }
+    
+    #footer-part .footer-contain-bg .copy-right .main p {
+        font-size: 15px;
+        width: 60%;
+        padding-left: 10px;
+    }
+    
+    #footer-part .footer-contain-bg .copy-right .icon{
+        padding-right: 10px;
+        width: 45%;
+       text-align: right;
+    }
+    
+    #footer-part .footer-contain-bg .copy-right .main .icon i {
+        margin-top: 8px;
+    }
+
+    .top-button {
+        bottom: 108px;
+        right: 25px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 17px;
+    }
+    
+    /* ------------------------
+        footer part end
+    ------------------------------*/
+    
+    /* ------------------ Home page index.html css end -------------------- */
+    
+    
+    /* ------------------ About page about.html css start -------------------- */
+    
+    #about-title {
+        margin: 50px 0;
+    }
+    
+    #about-title .title h5 {
+        margin-top: 14px;
+    }
+    
+    #about-title .about-left-shape {
+        display: none;
+    }
+    
+    #marketing-part .item {
+        margin-top: 30px;
+    }
+    
+    #marketing-part .item .hover-shape {
+        display: none;
+    }
+    
+    #research-part {
+        margin-bottom: 60px;
+    }
+    
+    #research-part .row {
+        flex-direction: column-reverse;
+    }
+    
+    #research-part .details{
+        margin-top: 40px;
+    }
+    
+    #research-part .details h2 {
+        font-size: 22px;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+    
+    #research-part .details p {
+        margin-bottom: 18px;
+    }
+    
+    #research-part .details ul {
+        margin-bottom: 25px;
+    }
+    
+    #research-part .details ul li {
+        font-size: 15px;
+        margin-bottom: 8px;
+    }
+    
+    #research-part .details ul li i {
+        width: 15px;
+        height: 15px;
+        line-height: 16px;
+        font-size: 9px;
+    }
+    
+    #research-part .details .research-button{
+        width: 135px;
+    }
+    
+    #research-part .details .research-button .button {
+        width: 135px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+    
+    #research-part .research-img {
+        text-align: center;
+    }
+    
+    #research-part .research-img img{
+        width: 65%;
+    }
+    
+    #research-part .research-img .round-shape {
+        display: none;
+    }
+    
+    #team-part .item{
+        margin-top: 20px;
+    }
+    
+    #team-part .item .iner-item {
+        margin: 0 auto;
+    }
+    
+    #team-part .item .iner-item .img .img-overlay {
+        height: 270px;
+        top: -2px;
+    }
+    
+    #team-part .item h4 {
+        font-size: 18px;
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+    
+    #team-part .item p {
+        font-size: 15px;
+    }
+    
+    #services-part .services-img .round-shape {
+        display: none;
+    }
+    
+    /* ------------------ About page about.html css end -------------------- */
+    
+    
+    
+    /* ------------------ Services page services.html css start -------------------- */
+    
+    #service-title {
+        margin: 50px 0;
+    }
+    
+    #service-title .title h5 {
+        margin-top: 14px;
+    }
+
+    #service-title .service-left-shape {
+        display: none;
+    }
+    
+    /* ------------------ Services page services.html css end -------------------- */
+    
+    
+    /* ------------------ Pricing page pricing.html css start -------------------- */
+    
+    #priceing-title {
+        margin: 50px 0;
+    }
+    
+    #priceing-title .title h5 {
+        margin-top: 14px;
+    }
+
+    #priceing-title .pricing-left-shape {
+        display: none;
+    }
+
+    #success-part .shape-one {
+        display: none;
+    }
+    
+    /* ------------------ Pricing page pricing.html css end -------------------- */
+    
+    
+    /* ------------------ Contact page contact.html css start -------------------- */
+    
+    #contact-title {
+        margin: 50px 0;
+    }
+    
+    #contact-title .title h5 {
+        margin-top: 14px;
+    }
+    
+    #contact-part {
+        margin-bottom: 60px;
+    }
+    
+    #contact-part .contact-img{
+        text-align: center;
+    }
+    
+    #contact-part .contact-img img{
+        width: 65%;
+    }
+    
+    #contact-part .contact-details {
+        margin-top: 50px;
+        text-align: center;
+    }
+    
+    #contact-part .contact-details .input-group {
+        width: 300px;
+        height: 45px;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    
+    #contact-part .contact-details .message-form {
+        width: 300px;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    
+    #contact-part .contact-details .contact-button{
+        width: 160px;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+    
+    #contact-part .contact-details .contact-button .button {
+        width: 160px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+    
+    #map-part {
+        margin-bottom: 60px;
+    }
+    
+    #map-part .map-img img{
+        width: 100%;
+    }
+
+    #contact-title .contact-left-shape {
+        display: none;
+    }
+
+    #map-part .shape-one {
+        display: none;
+    }
+
+    #contact-part .contact-details .round-shape {
+        display: none;
+    }
+    
+    /* ------------------ Contact page contact.html css end -------------------- */
+    
+    
+    /* ------------------ Coming page coming.html css start -------------------- */
+    #coming-part .coming-details {
+        margin-top: 60px;
+    }
+    
+    #coming-part .coming-details .logo img {
+        width: 30%;
+    }
+    
+    #coming-part .coming-details h1 {
+        font-size: 35px;
+        line-height: 45px;
+        width: auto;
+        margin-top: 40px;
+    }
+    
+    #coming-part .coming-details h1 span {
+        font-size: 40px;
+    }
+    
+    #coming-part .coming-details p {
+        font-size: 18px;
+        line-height: 28px;
+        width: auto;
+        margin-top: 30px;
+    }
+    
+    #coming-part .coming-details .input-group {
+        width: auto;
+        height: 48px;
+        margin-top: 45px;
+    }
+    
+    #coming-part .coming-details .input-group .form-control {
+        font-size: 14px;
+        padding-left: 20px;
+    }
+    
+    #coming-part .coming-details .input-group .input-button .button {
+        height: 48px;
+        font-size: 16px;
+        line-height: 48px;
+    }
+    
+    #coming-part .coming-details .copy-right {
+        margin-top: 70px;
+    }
+    
+    /* ------------------ Coming page coming.html css end -------------------- */
+    
+    /* ============================= */
+    }
+
+
+@media (min-width:400px) and (max-width:490px){
+
+/* ------------------ Home page index.html css start -------------------- */
+.title {
+	margin-bottom: 20px;
+}
+
+.title h1 {
+	font-size: 30px;
+	line-height: 40px;
+}
+
+.title h6 {
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+
+p {
+	font-size: 15px;
+	line-height: 24px;
+}
+
+/* ------------------------
+    common part end
+------------------------------*/
+
+/* ------------------------
+       nav part start
+------------------------------*/
+
+nav .navbar-brand img{
+    width: 60%;
+}
+
+.navbar-light .navbar-toggler {
+	font-size: 23px;
+    margin-top: 10px;
+	border-color: transparent;
+}
+
+.navbar-toggler:focus {
+	box-shadow: 0 0 0 ;
+} 
+
+nav .navbar-nav .nav-item{
+    text-align: center;
+}
+
+.nav-button {
+	width: 110px;
+	margin:0 auto ;
+}
+
+nav .nav-item .nav-link::after {
+    display: none;
+}
+
+/* ------------------------
+       nav part end
+------------------------------*/
+
+/* ------------------------
+    banner part start
+------------------------------*/
+#banner-part {
+	margin-bottom: 50px;
+}
+
+#banner-part .details-part {
+	margin-top: 50px;
+}
+
+#banner-part .details-part h6 {
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+
+#banner-part .details-part h1 {
+	font-size: 30px;
+	line-height: 40px;
+	width: auto;
+}
+
+#banner-part .details-part p {
+	margin-bottom: 20px;
+	width: auto;
+}
+
+#banner-part .banner-button {
+	width: 135px;
+}
+
+#banner-part .banner-button .button {
+	width: 135px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 16px;
+}
+
+#banner-part .play-icon {
+	width: 40px;
+	height: 40px;
+	line-height: 42px;
+	margin-top: 3px;
+}
+
+#banner-part .play-icon i {
+	font-size: 16px;
+}
+
+#banner-part .banner-img{
+    text-align: center;
+    margin-top: 5px;
+}
+
+#banner-part .banner-img img{
+    width: 65%;
+    margin-top: 10px;
+}
+
+#banner-part .banner-img .dot-shape {
+	bottom: 1px;
+	right: 80px;
+	width: 20%;
+}
+
+#banner-part .row{
+    flex-direction: column-reverse;
+}
+
+#banner-part .banner-left-shape {
+	display: none;
+}
+
+/* ------------------------
+     banner part end
+------------------------------*/
+
+/* ------------------------
+     brand part start
+------------------------------*/
+#brand-part {
+	margin-bottom: 50px;
+}
+
+#brand-part .brand-box {
+	padding: 30px 20px;
+}
+
+#brand-part .brand-box h3 {
+	font-size: 22px;
+	margin-bottom: 30px;
+}
+
+#brand-part .brand-slider img {
+	margin-left: 10px;
+	width: 85%;
+}
+
+
+/* ------------------------
+     brand part end
+------------------------------*/
+
+/* ------------------------
+     about part start
+------------------------------*/
+#about-part {
+	margin-bottom: 60px;
+}
+
+#about-part .about-shape .shape-img {
+	display: none;
+}
+
+#about-part .about-img{
+    text-align: center;
+}
+
+#about-part .about-img img{
+    width: 65%;
+}
+
+#about-part h6 {
+	margin-bottom: 20px;
+}
+
+#about-part .details{
+    margin-top: 40px
+}
+
+#about-part .details p {
+	margin-bottom: 25px;
+}
+
+#about-part .details ul {
+	margin-bottom: 25px;
+}
+
+#about-part .details ul li {
+	font-size: 15px;
+	margin-bottom: 5px;
+}
+
+#about-part .details ul li i {
+	width: 16px;
+	height: 16px;
+	line-height: 17px;
+	font-size: 9px;
+}
+
+#about-part .details .about-button {
+	width: 135px;
+}
+
+#about-part .details .about-button .button {
+	width: 135px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 16px;
+}
+
+#about-part .about-img .round-shape {
+	display: none;
+}
+
+#about-part .shape-two {
+	display: none;
+}
+
+/* ------------------------
+     about part end
+------------------------------*/
+
+/* ------------------------
+    marketing part start
+------------------------------*/
+#marketing-part {
+	margin-bottom: 60px;
+}
+
+#marketing-part .title {
+	margin-bottom: 30px;
+}
+
+#marketing-part .marketing-shape .shape-img {
+    display: none;
+}
+
+#marketing-part .title h1 {
+	width: auto;
+}
+
+#marketing-part .top {
+	margin-bottom: 0px;
+}
+
+#marketing-part .item {
+	margin-top: 20px;
+}
+
+#marketing-part .item h4 {
+	margin-bottom: 20px;
+	margin-top: 25px;
+}
+
+#marketing-part .item p {
+	margin-bottom: 20px;
+    font-size: 15px;
+}
+
+#marketing-part .title .round-shape {
+	display: none;
+}
+
+/* ------------------------
+    marketing part end
+------------------------------*/
+
+/* ------------------------
+    boost part start
+------------------------------*/
+#boosts-part {
+	margin-bottom: 60px;
+}
+
+#boosts-part .boosts-details {
+	margin-top: 40px;
+}
+
+#boosts-part .boosts-details .input-group {
+	height: 43px;
+	margin-top: 35px;
+}
+
+#boosts-part .boosts-details .input-group .form-control {
+	font-size: 12px;
+}
+
+#boosts-part .boosts-details .boosts-button {
+	width: 160px;
+	margin-top: 35px;
+}
+
+#boosts-part .boosts-details .boosts-button .button {
+	width: 160px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 16px;
+}
+
+#boosts-part .boosts-img{
+    text-align: center;
+}
+
+#boosts-part .boosts-img img{
+    width: 65%;
+}
+
+#boosts-part .row{
+    flex-direction: column-reverse;
+}
+
+/* ------------------------
+    boost part end
+------------------------------*/
+
+/* ------------------------
+    pricing part start
+------------------------------*/
+#pricing-part {
+    margin-bottom: 60px;
+}
+
+#pricing-part .main-item {
+	display: block;
+}
+
+#pricing-part .item {
+	margin-top: 40px;
+}
+
+#pricing-part .main-item .item .img img{
+    width: 22%;
+}
+
+#pricing-part .item ul li {
+	font-size: 16px;
+	line-height: 28px;
+}
+
+#pricing-part .item h1 {
+	font-size: 30px;
+	margin-top: 20px;
+}
+
+#pricing-part .item .price-button {
+	width: 160px;
+}
+
+#pricing-part .item .price-button .item-button {
+	width: 160px;
+	height: 45px;
+	font-size: 16px;
+	line-height: 45px;
+}
+
+#pricing-part .regular-item {
+   padding: 40px;
+	position: static !important;
+   width: 100%;
+   margin-top: 40px;
+}
+
+#pricing-part .main-item .regular-item .img img{
+    width: 22%;
+}
+
+#pricing-part .regular-item ul li {
+	font-size: 16px;
+	line-height: 28px;
+}
+
+#pricing-part .regular-item h1 {
+	font-size: 30px;
+	margin-top: 20px;
+}
+
+#pricing-part .regular-item .price-button {
+	width: 160px;
+}
+
+#pricing-part .regular-item .price-button .item-button {
+	width: 160px;
+	height: 45px;
+	font-size: 16px;
+	line-height: 45px;
+}
+
+#pricing-part .title h1 {
+	width: auto;
+}
+
+#pricing-part .title .round-shape {
+	display: none;
+}
+
+#pricing-part .shape-one {
+	display: none;
+}
+
+/* ------------------------
+    pricing part end
+------------------------------*/
+
+/* ------------------------
+    success part end
+------------------------------*/
+#success-part {
+	margin-bottom: 60px;
+}
+
+#success-part .success-img{
+    text-align: center;
+}
+
+#success-part .success-img img{
+    width: 65%;
+}
+
+#success-part .success-details{
+    margin-top: 40px;
+}
+
+#success-part .success-details .title h1 {
+	width: auto;
+}
+
+#success-part .success-details .count-part {
+	margin-top: 20px;
+	text-align: center;
+}
+
+#success-part .success-details .count-part .left-count{
+    margin-bottom: 30px;
+}
+
+#success-part .success-details .count-part .left-count h2 {
+	font-size: 35px;
+}
+
+#success-part .success-details .count-part .left-count h6 {
+	width: auto;
+}
+
+#success-part .success-details .count-part .middle-count{
+    margin-bottom: 30px;
+}
+
+#success-part .success-details .count-part .middle-count h2 {
+	font-size: 35px;
+}
+
+#success-part .success-details .count-part .middle-count h6 {
+	width: auto;
+}
+
+#success-part .success-details .count-part .right-count{
+    margin-bottom: 30px;
+}
+
+#success-part .success-details .count-part .right-count h2 {
+	font-size: 35px;
+}
+
+#success-part .success-details .count-part .right-count h6 {
+	width: auto;
+}
+
+#success-part .success-details .success-button{
+    width: 190px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+#success-part .success-details .success-button .button {
+	width: 190px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 15px;
+}
+
+
+/* ------------------------
+    success part end
+------------------------------*/
+
+/* ------------------------
+    services part start
+------------------------------*/
+#services-part {
+	margin-bottom: 60px;
+}
+
+#services-part .title {
+	margin-bottom: 30px;
+}
+
+#services-part .title h1 {
+	width: auto;
+}
+
+#services-part .services-slider .slider-box {
+	background: #ffffff;
+	padding: 35px 30px;
+	border-radius: 20px;
+	margin-bottom: 30px;
+}
+
+#services-part .services-slider .slick-list {
+	padding-bottom: 130px !important;
+}
+
+#services-part .services-slider .slider-box p {
+	padding: 0 10px;
+	margin-top: 20px;
+	text-align: justify;
+	line-height: 20px;
+}
+
+#services-part .services-slider .slider-box .icon i {
+	font-size: 16px;
+}
+
+#services-part .services-slider .slider-box .icon {
+	margin-left: 10px;
+	margin-top: 15px;
+}
+
+#services-part .services-img{
+    text-align: center;
+    margin-top: 120px;
+}
+
+#services-part .services-img img{
+    width: 65%;
+}
+
+#services-part .services-img .dot-shape {
+	bottom: 0px;
+	right: 65px;
+	width: 30%;
+}
+
+#services-part .prev {
+	width: 30px;
+	height: 30px;
+	line-height: 29px;
+	font-size: 15px;
+	top: 107%;
+	left: 38%;
+	z-index: 3;
+}
+
+#services-part .next {
+	width: 30px;
+	height: 30px;
+	line-height: 29px;
+	font-size: 15px;
+	top: 107%;
+	left: 48%;
+}
+
+#services-part .shape-two {
+	display: none;
+}
+
+/* ------------------------
+    services part end
+------------------------------*/
+
+/* ------------------------
+    studies part start
+------------------------------*/
+#studies-part {
+	margin-bottom: 30px;
+}
+
+#studies-part .bg-box {
+	padding: 65px 20px 30px 20px;
+}
+
+#studies-part .slick-dots {
+	margin-top: 40px;
+	padding-left: 0;
+}
+
+#studies-part .title {
+	margin-bottom: 30px;
+}
+
+#studies-part .title h1 {
+	width: auto;
+}
+
+/* ------------------------
+    studies part end
+------------------------------*/
+
+/* ------------------------
+    news part start
+------------------------------*/
+#news-part {
+	margin-bottom: 60px;
+}
+
+#news-part .news-img{
+    text-align: center;
+}
+
+#news-part .news-img img{
+    width: 65%;
+}
+
+#news-part .news-details{
+    margin-top: 40px;
+    text-align: center;
+}
+
+#news-part .news-details .input-group {
+	width: 300px;
+	height: 45px;
+	margin-top: 30px !important;
+    margin: 0 auto;
+}
+
+#news-part .news-details .input-group .form-control {
+	font-size: 13px;
+}
+
+#news-part .news-details .news-button{
+    width: 160px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+#news-part .news-details .news-button .button {
+	width: 160px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 16px;
+}
+
+#news-part .news-details .round-shape {
+	display: none;
+}
+
+#news-part .shape-one {
+	display: none;
+}
+
+/* ------------------------
+    news part end
+------------------------------*/
+
+/* ------------------------
+    footer part start
+------------------------------*/
+
+#footer-part {
+	margin-bottom: 30px;
+}
+
+#footer-part .footer-contain-bg {
+	padding: 40px 0px 0px 0px;
+}
+
+#footer-part .left-item {
+	text-align: center;
+}
+
+#footer-part .left-item .logo img{
+    width: 30%;
+}
+
+#footer-part .left-item p {
+	font-size: 15px;
+	margin-top: 25px !important;
+	margin: 0 auto;
+}
+
+#footer-part .middle-item {
+    margin-top: 30px;
+    padding-left: 0px;
+	text-align: center;
+}
+
+#footer-part .middle-item ul {
+	margin-top: 15px;
+}
+
+#footer-part .right-item{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#footer-part .right-item address {
+	margin-top: 20px;
+}
+
+#footer-part .right-item address figure {
+	font-size: 15px;
+	margin-bottom: 12px !important;
+	margin: 0 auto;
+}
+
+#footer-part .footer-contain-bg .main-item {
+	padding-bottom: 39px;
+}
+
+#footer-part .footer-contain-bg .copy-right .main p {
+	font-size: 15px;
+	width: 60%;
+	padding-left: 10px;
+}
+
+#footer-part .footer-contain-bg .copy-right .icon{
+    padding-right: 10px;
+    width: 45%;
+   text-align: right;
+}
+
+#footer-part .footer-contain-bg .copy-right .main .icon i {
+	margin-top: 8px;
+}
+
+.top-button {
+    bottom: 108px;
+    right: 25px;
+    width: 35px;
+    height: 35px;
+    border-radius: 40px;
+    line-height: 35px;
+    font-size: 18px;
+}
+
+/* ------------------------
+    footer part end
+------------------------------*/
+
+/* ------------------ Home page index.html css end -------------------- */
+
+
+/* ------------------ About page about.html css start -------------------- */
+
+#about-title {
+	margin: 50px 0;
+}
+
+#about-title .title h5 {
+	margin-top: 14px;
+}
+
+#about-title .about-left-shape {
+	display: none;
+}
+
+#marketing-part .item {
+	margin-top: 30px;
+}
+
+#marketing-part .item .hover-shape {
+	display: none;
+}
+
+#research-part {
+	margin-bottom: 60px;
+}
+
+#research-part .row {
+    flex-direction: column-reverse;
+}
+
+#research-part .details{
+    margin-top: 40px;
+}
+
+#research-part .details h2 {
+	font-size: 22px;
+	line-height: 30px;
+	margin-bottom: 10px;
+}
+
+#research-part .details p {
+	margin-bottom: 18px;
+}
+
+#research-part .details ul {
+	margin-bottom: 25px;
+}
+
+#research-part .details ul li {
+	font-size: 15px;
+	margin-bottom: 8px;
+}
+
+#research-part .details ul li i {
+	width: 15px;
+	height: 15px;
+	line-height: 16px;
+	font-size: 9px;
+}
+
+#research-part .details .research-button{
+    width: 135px;
+}
+
+#research-part .details .research-button .button {
+	width: 135px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 16px;
+}
+
+#research-part .research-img {
+    text-align: center;
+}
+
+#research-part .research-img img{
+    width: 65%;
+}
+
+#research-part .research-img .round-shape {
+	display: none;
+}
+
+#team-part .item{
+    margin-top: 20px;
+}
+
+#team-part .item .iner-item {
+	margin: 0 auto;
+}
+
+#team-part .item .iner-item .img .img-overlay {
+	height: 270px;
+	top: -2px;
+}
+
+#team-part .item h4 {
+	font-size: 18px;
+	margin-top: 20px;
+    margin-bottom: 0;
+}
+
+#team-part .item p {
+	font-size: 15px;
+}
+
+#services-part .services-img .round-shape {
+	display: none;
+}
+
+/* ------------------ About page about.html css end -------------------- */
+
+
+
+/* ------------------ Services page services.html css start -------------------- */
+
+#service-title {
+	margin: 50px 0;
+}
+
+#service-title .title h5 {
+	margin-top: 14px;
+}
+
+#service-title .service-left-shape {
+    display: none;
+}
+
+/* ------------------ Services page services.html css end -------------------- */
+
+
+/* ------------------ Pricing page pricing.html css start -------------------- */
+
+#priceing-title {
+	margin: 50px 0;
+}
+
+#priceing-title .title h5 {
+	margin-top: 14px;
+}
+
+#priceing-title .pricing-left-shape {
+	display: none;
+}
+
+#success-part .shape-one {
+	display: none;
+}
+
+/* ------------------ Pricing page pricing.html css end -------------------- */
+
+
+/* ------------------ Contact page contact.html css start -------------------- */
+
+#contact-title {
+	margin: 50px 0;
+}
+
+#contact-title .title h5 {
+	margin-top: 14px;
+}
+
+#contact-part {
+	margin-bottom: 60px;
+}
+
+#contact-part .contact-img{
+    text-align: center;
+}
+
+#contact-part .contact-img img{
+    width: 65%;
+}
+
+#contact-part .contact-details {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#contact-part .contact-details .input-group {
+	width: 300px;
+	height: 45px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#contact-part .contact-details .message-form {
+	width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#contact-part .contact-details .contact-button{
+    width: 160px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+#contact-part .contact-details .contact-button .button {
+	width: 160px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 16px;
+}
+
+#map-part {
+	margin-bottom: 60px;
+}
+
+#map-part .map-img img{
+    width: 100%;
+}
+
+#contact-title .contact-left-shape {
+    display: none;
+}
+
+#map-part .shape-one {
+    display: none;
+}
+
+#contact-part .contact-details .round-shape {
+    display: none;
+}
+
+/* ------------------ Contact page contact.html css end -------------------- */
+
+
+/* ------------------ Coming page coming.html css start -------------------- */
+#coming-part .coming-details {
+	margin-top: 60px;
+}
+
+#coming-part .coming-details .logo img {
+    width: 30%;
+}
+
+#coming-part .coming-details h1 {
+	font-size: 35px;
+	line-height: 45px;
+	width: auto;
+	margin-top: 40px;
+}
+
+#coming-part .coming-details h1 span {
+	font-size: 40px;
+}
+
+#coming-part .coming-details p {
+	font-size: 18px;
+	line-height: 28px;
+	width: auto;
+	margin-top: 30px;
+}
+
+#coming-part .coming-details .input-group {
+	width: auto;
+	height: 48px;
+	margin-top: 45px;
+}
+
+#coming-part .coming-details .input-group .form-control {
+	font-size: 14px;
+	padding-left: 20px;
+}
+
+#coming-part .coming-details .input-group .input-button .button {
+	height: 48px;
+	font-size: 16px;
+	line-height: 48px;
+}
+
+#coming-part .coming-details .copy-right {
+	margin-top: 70px;
+}
+
+/* ------------------ Coming page coming.html css end -------------------- */
+
+/* ============================= */
+}
+
+
+@media (min-width:491px) and (max-width:575px){
+
+    /* ------------------ Home page index.html css start -------------------- */
+    .title {
+        margin-bottom: 20px;
+    }
+    
+    .title h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    
+    .title h6 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    
+    p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    
+    /* ------------------------
+        common part end
+    ------------------------------*/
+    
+    /* ------------------------
+           nav part start
+    ------------------------------*/
+    
+    nav .navbar-brand img{
+        width: 70%;
+    }
+    
+    .navbar-light .navbar-toggler {
+        font-size: 25px;
+        margin-top: 10px;
+        border-color: transparent;
+    }
+    
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 ;
+    } 
+    
+    nav .navbar-nav .nav-item{
+        text-align: center;
+    }
+    
+    .nav-button {
+        width: 110px;
+        margin:0 auto ;
+    }
+
+    nav .nav-item .nav-link::after {
+        display: none;
+    }
+    
+    /* ------------------------
+           nav part end
+    ------------------------------*/
+    
+    /* ------------------------
+        banner part start
+    ------------------------------*/
+    #banner-part {
+        margin-bottom: 50px;
+    }
+    
+    #banner-part .details-part {
+        margin-top: 50px;
+        text-align: center;
+    }
+
+    #banner-part .details-part h6 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    
+    #banner-part .details-part h1 {
+        font-size: 30px;
+        line-height: 40px;
+        width: auto;
+    }
+    
+    #banner-part .details-part p {
+        margin-bottom: 20px;
+        width: auto;
+    }
+
+    #banner-part .main {
+        justify-content: center;
+    }
+    
+    #banner-part .banner-button {
+        width: 135px;
+    }
+    
+    #banner-part .banner-button .button {
+        width: 135px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+    
+    #banner-part .play-icon {
+        width: 40px;
+        height: 40px;
+        line-height: 42px;
+        margin-top: 3px;
+    }
+    
+    #banner-part .play-icon i {
+        font-size: 16px;
+    }
+    
+    #banner-part .banner-img{
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #banner-part .banner-img img{
+        width: 65%;
+        margin-top: 10px;
+    }
+
+    #banner-part .banner-img .dot-shape {
+        bottom: -15px;
+        right: 89px;
+        width: 25%;
+    }
+    
+    #banner-part .row{
+        flex-direction: column-reverse;
+    }
+
+    #banner-part .banner-left-shape {
+        display: none;
+    }
+    
+    /* ------------------------
+         banner part end
+    ------------------------------*/
+    
+    /* ------------------------
+         brand part start
+    ------------------------------*/
+    #brand-part {
+        margin-bottom: 50px;
+    }
+    
+    #brand-part .brand-box {
+        padding: 30px 20px;
+    }
+    
+    #brand-part .brand-box h3 {
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+    
+    #brand-part .brand-slider img {
+        margin-left: 25px;
+        width: 70%;
+    }
+    
+    
+    /* ------------------------
+         brand part end
+    ------------------------------*/
+    
+    /* ------------------------
+         about part start
+    ------------------------------*/
+    #about-part {
+        margin-bottom: 60px;
+    }
+    
+    #about-part .about-shape .shape-img {
+        display: none;
+    }
+    
+    #about-part .about-img{
+        text-align: center;
+    }
+    
+    #about-part .about-img img{
+        width: 65%;
+    }
+    
+    #about-part h6 {
+        margin-bottom: 20px;
+    }
+    
+    #about-part .details {
+        margin-top: 40px;
+        text-align: center;
+    }
+    
+    #about-part .details p {
+        margin-bottom: 25px;
+    }
+    
+    #about-part .details ul {
+        margin-bottom: 25px;
+    }
+    
+    #about-part .details ul li {
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    
+    #about-part .details ul li i {
+        width: 16px;
+        height: 16px;
+        line-height: 17px;
+        font-size: 9px;
+    }
+    
+    #about-part .details .about-button {
+        width: 135px;
+        margin: 0 auto;
+    }
+    
+    #about-part .details .about-button .button {
+        width: 135px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+
+    #about-part .about-img .round-shape {
+        display: none;
+    }
+
+    #about-part .shape-two {
+        display: none;
+    }
+    
+    /* ------------------------
+         about part end
+    ------------------------------*/
+    
+    /* ------------------------
+        marketing part start
+    ------------------------------*/
+    #marketing-part {
+        margin-bottom: 60px;
+    }
+    
+    #marketing-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #marketing-part .marketing-shape .shape-img {
+        display: none;
+    }
+    
+    #marketing-part .title h1 {
+        width: auto;
+    }
+    
+    #marketing-part .top {
+        margin-bottom: 0px;
+    }
+    
+    #marketing-part .item {
+        margin-top: 20px;
+        text-align: center;
+    }
+    
+    #marketing-part .item h4 {
+        margin-bottom: 20px;
+        margin-top: 25px;
+    }
+    
+    #marketing-part .item p {
+        margin-bottom: 20px;
+        font-size: 15px;
+    }
+
+    #marketing-part .title .round-shape {
+        display: none;
+    }
+    
+    /* ------------------------
+        marketing part end
+    ------------------------------*/
+    
+    /* ------------------------
+        boost part start
+    ------------------------------*/
+    #boosts-part {
+        margin-bottom: 60px;
+    }
+    
+    #boosts-part .boosts-details {
+        margin-top: 40px;
+        text-align: center;
+    }
+    
+    #boosts-part .boosts-details .input-group {
+        height: 43px;
+        margin-top: 35px;
+    }
+    
+    #boosts-part .boosts-details .input-group .form-control {
+        font-size: 12px;
+    }
+    
+    #boosts-part .boosts-details .boosts-button {
+        width: 160px;
+        margin-top: 35px !important;
+        margin: 0 auto;
+    }
+    
+    #boosts-part .boosts-details .boosts-button .button {
+        width: 160px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+    
+    #boosts-part .boosts-img{
+        text-align: center;
+    }
+    
+    #boosts-part .boosts-img img{
+        width: 65%;
+    }
+    
+    #boosts-part .row{
+        flex-direction: column-reverse;
+    }
+
+    #boosts-part .boosts-details .round-shape {
+        display: none;
+    }
+    
+    /* ------------------------
+        boost part end
+    ------------------------------*/
+    
+    /* ------------------------
+        pricing part start
+    ------------------------------*/
+    #pricing-part {
+        margin-bottom: 60px;
+    }
+    
+    #pricing-part .main-item {
+        display: block;
+    }
+    
+    #pricing-part .item {
+        margin-top: 40px !important;
+        width: 60%;
+        margin: 0 auto;
+    }
+    
+    #pricing-part .item ul li {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    
+    #pricing-part .item h1 {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    
+    #pricing-part .item .price-button {
+        width: 160px;
+    }
+    
+    #pricing-part .item .price-button .item-button {
+        width: 160px;
+        height: 45px;
+        font-size: 16px;
+        line-height: 45px;
+    }
+    
+    #pricing-part .regular-item {
+       padding: 40px;
+        position: static !important;
+        width: 60%;
+        margin: 0 auto;
+       margin-top: 40px !important;
+    }
+    
+    #pricing-part .main-item .regular-item .img img{
+        width: 22%;
+    }
+    
+    #pricing-part .regular-item ul li {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    
+    #pricing-part .regular-item h1 {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    
+    #pricing-part .regular-item .price-button {
+        width: 160px;
+    }
+
+    #pricing-part .regular-item .price-button .item-button {
+        width: 160px;
+        height: 45px;
+        font-size: 16px;
+        line-height: 45px;
+    }
+    
+    #pricing-part .title h1 {
+        width: auto;
+    }
+
+    #pricing-part .title .round-shape {
+        display: none;
+    }
+
+    #pricing-part .shape-one {
+        display: none;
+    }
+    
+    /* ------------------------
+        pricing part end
+    ------------------------------*/
+    
+    /* ------------------------
+        success part end
+    ------------------------------*/
+    #success-part {
+        margin-bottom: 60px;
+    }
+    
+    #success-part .success-img{
+        text-align: center;
+    }
+    
+    #success-part .success-img img{
+        width: 65%;
+    }
+    
+    #success-part .success-details{
+        margin-top: 40px;
+        text-align: center;
+    }
+    
+    #success-part .success-details .title h1 {
+        width: auto;
+    }
+    
+    #success-part .success-details .count-part {
+        margin-top: 20px;
+        text-align: center;
+    }
+    
+    #success-part .success-details .count-part .left-count{
+        margin-bottom: 30px;
+    }
+    
+    #success-part .success-details .count-part .left-count h2 {
+        font-size: 35px;
+    }
+    
+    #success-part .success-details .count-part .left-count h6 {
+        width: auto;
+    }
+    
+    #success-part .success-details .count-part .middle-count{
+        margin-bottom: 30px;
+    }
+    
+    #success-part .success-details .count-part .middle-count h2 {
+        font-size: 35px;
+    }
+    
+    #success-part .success-details .count-part .middle-count h6 {
+        width: auto;
+    }
+    
+    #success-part .success-details .count-part .right-count{
+        margin-bottom: 30px;
+    }
+    
+    #success-part .success-details .count-part .right-count h2 {
+        font-size: 35px;
+    }
+    
+    #success-part .success-details .count-part .right-count h6 {
+        width: auto;
+    }
+    
+    #success-part .success-details .success-button{
+        width: 190px;
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+    
+    #success-part .success-details .success-button .button {
+        width: 190px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 15px;
+    }
+    
+    
+    /* ------------------------
+        success part end
+    ------------------------------*/
+    
+    /* ------------------------
+        services part start
+    ------------------------------*/
+    #services-part {
+        margin-bottom: 60px;
+    }
+    
+    #services-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #services-part .title h1 {
+        width: 390px;
+    }
+    
+    #services-part .services-slider .slider-box {
+        background: #ffffff;
+        padding: 35px 30px;
+        border-radius: 20px;
+        margin-bottom: 30px;
+    }
+    
+    #services-part .services-slider .slick-list {
+        padding-bottom: 130px !important;
+    }
+    
+    #services-part .services-slider .slider-box p {
+        padding: 0 10px;
+        margin-top: 20px;
+        text-align: justify;
+        line-height: 20px;
+    }
+    
+    #services-part .services-slider .slider-box .icon i {
+        font-size: 16px;
+    }
+    
+    #services-part .services-slider .slider-box .icon {
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+    
+    #services-part .services-img{
+        text-align: center;
+        margin-top: 120px;
+    }
+    
+    #services-part .services-img img{
+        width: 65%;
+    }
+    
+    #services-part .prev {
+        width: 30px;
+        height: 30px;
+        line-height: 29px;
+        font-size: 15px;
+        top: 107%;
+        left: 38%;
+        z-index: 3;
+    }
+    
+    #services-part .next {
+        width: 30px;
+        height: 30px;
+        line-height: 29px;
+        font-size: 15px;
+        top: 107%;
+        left: 48%;
+    }
+
+    #services-part .shape-two {
+        display: none;
+    }
+    
+    /* ------------------------
+        services part end
+    ------------------------------*/
+    
+    /* ------------------------
+        studies part start
+    ------------------------------*/
+    #studies-part {
+        margin-bottom: 30px;
+    }
+    
+    #studies-part .bg-box {
+        padding: 65px 20px 30px 20px;
+    }
+    
+    #studies-part .slick-dots {
+        margin-top: 40px;
+        padding-left: 0;
+    }
+    
+    #studies-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #studies-part .title h1 {
+        width: auto;
+    }
+
+    #studies-part .studies-slider .studies-item .iner-item {
+        padding: 40px 100px;
+    }
+    
+    /* ------------------------
+        studies part end
+    ------------------------------*/
+    
+    /* ------------------------
+        news part start
+    ------------------------------*/
+    #news-part {
+        margin-bottom: 60px;
+    }
+    
+    #news-part .news-img{
+        text-align: center;
+    }
+    
+    #news-part .news-img img{
+        width: 65%;
+    }
+    
+    #news-part .news-details{
+        margin-top: 40px;
+        text-align: center;
+    }
+    
+    #news-part .news-details .input-group {
+        width: 300px;
+        height: 45px;
+        margin-top: 30px !important;
+        margin: 0 auto;
+    }
+    
+    #news-part .news-details .input-group .form-control {
+        font-size: 13px;
+    }
+    
+    #news-part .news-details .news-button{
+        width: 160px;
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+    
+    #news-part .news-details .news-button .button {
+        width: 160px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+
+    #news-part .news-details .round-shape {
+        display: none;
+    }
+
+    #news-part .shape-one {
+        display: none;
+    }
+    
+    /* ------------------------
+        news part end
+    ------------------------------*/
+    
+    /* ------------------------
+        footer part start
+    ------------------------------*/
+    
+    #footer-part {
+        margin-bottom: 30px;
+    }
+    
+    #footer-part .footer-contain-bg {
+        padding: 40px 0px 0px 0px;
+    }
+    
+    #footer-part .left-item {
+        text-align: center;
+    }
+    
+    #footer-part .left-item .logo img{
+        width: 30%;
+    }
+    
+    #footer-part .left-item p {
+        font-size: 15px;
+        margin-top: 25px !important;
+        margin: 0 auto;
+    }
+    
+    #footer-part .middle-item {
+        margin-top: 30px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    #footer-part .middle-item ul {
+        margin-top: 15px;
+    }
+    
+    #footer-part .right-item{
+        text-align: center;
+        margin-top: 30px;
+    }
+    
+    #footer-part .right-item address {
+        margin-top: 20px;
+    }
+    
+    #footer-part .right-item address figure {
+        font-size: 15px;
+        margin-bottom: 12px !important;
+        margin: 0 auto;
+    }
+    
+    #footer-part .footer-contain-bg .main-item {
+        padding-bottom: 39px;
+    }
+    
+    #footer-part .footer-contain-bg .copy-right .main p {
+        font-size: 15px;
+        width: 60%;
+        padding-left: 10px;
+        text-align: center;
+    }
+    
+    #footer-part .footer-contain-bg .copy-right .icon{
+        padding-right: 10px;
+        width: 45%;
+        text-align: center;
+    }
+    
+    #footer-part .footer-contain-bg .copy-right .main .icon i {
+        margin-top: 8px;
+    }
+
+    .top-button {
+        bottom: 108px;
+        right: 30px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 20px;
+    }
+    
+    /* ------------------------
+        footer part end
+    ------------------------------*/
+    
+    /* ------------------ Home page index.html css end -------------------- */
+    
+/* ------------------ About page about.html css start -------------------- */
+
+#about-title {
+	margin: 50px 0;
+}
+
+#about-title .title h5 {
+	margin-top: 14px;
+}
+
+#about-title .about-left-shape {
+	display: none;
+}
+
+#marketing-part .item {
+	margin-top: 30px !important;
+	width: 60%;
+	margin: 0 auto;
+}
+
+#marketing-part .item .hover-shape {
+	display: none;
+}
+
+#research-part {
+	margin-bottom: 60px;
+}
+
+#research-part .row {
+    flex-direction: column-reverse;
+}
+
+#research-part .details{
+    margin-top: 40px;
+}
+
+#research-part .details h2 {
+	font-size: 22px;
+	line-height: 30px;
+	margin-bottom: 10px;
+}
+
+#research-part .details p {
+	margin-bottom: 18px;
+}
+
+#research-part .details ul {
+	margin-bottom: 25px;
+}
+
+#research-part .details ul li {
+	font-size: 15px;
+	margin-bottom: 8px;
+}
+
+#research-part .details ul li i {
+	width: 15px;
+	height: 15px;
+	line-height: 16px;
+	font-size: 9px;
+}
+
+#research-part .details .research-button{
+    width: 135px;
+}
+
+#research-part .details .research-button .button {
+	width: 135px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 16px;
+}
+
+#research-part .research-img {
+    text-align: center;
+}
+
+#research-part .research-img img{
+    width: 65%;
+}
+
+#research-part .research-img .round-shape {
+	display: none;
+}
+
+#team-part .item{
+    margin-top: 20px;
+}
+
+#team-part .item .iner-item {
+	margin: 0 auto;
+}
+
+#team-part .item .iner-item .img .img-overlay {
+	height: 270px;
+	top: -2px;
+}
+
+#team-part .item h4 {
+	font-size: 18px;
+	margin-top: 20px;
+    margin-bottom: 0;
+}
+
+#team-part .item p {
+	font-size: 15px;
+}
+
+#services-part .services-img .round-shape {
+	display: none;
+}
+
+/* ------------------ About page about.html css end -------------------- */
+
+/* ------------------ Services page services.html css start -------------------- */
+
+#service-title {
+	margin: 50px 0;
+}
+
+#service-title .title h5 {
+	margin-top: 14px;
+}
+
+#service-title .service-left-shape {
+    display: none;
+}
+
+/* ------------------ Services page services.html css end -------------------- */
+
+
+/* ------------------ Pricing page pricing.html css start -------------------- */
+
+#priceing-title {
+	margin: 50px 0;
+}
+
+#priceing-title .title h5 {
+	margin-top: 14px;
+}
+
+#priceing-title .pricing-left-shape {
+	display: none;
+}
+
+#success-part .shape-one {
+	display: none;
+}
+
+/* ------------------ Pricing page pricing.html css end -------------------- */
+
+
+/* ------------------ Contact page contact.html css start -------------------- */
+
+#contact-title {
+	margin: 50px 0;
+}
+
+#contact-title .title h5 {
+	margin-top: 14px;
+}
+
+#contact-part {
+	margin-bottom: 60px;
+}
+
+#contact-part .contact-img{
+    text-align: center;
+}
+
+#contact-part .contact-img img{
+    width: 65%;
+}
+
+#contact-part .contact-details {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#contact-part .contact-details .input-group {
+	width: 300px;
+	height: 45px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#contact-part .contact-details .message-form {
+	width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#contact-part .contact-details .contact-button{
+    width: 160px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+#contact-part .contact-details .contact-button .button {
+	width: 160px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 16px;
+}
+
+#map-part {
+	margin-bottom: 60px;
+}
+
+#map-part .map-img img{
+    width: 100%;
+}
+
+#contact-title .contact-left-shape {
+    display: none;
+}
+
+#map-part .shape-one {
+    display: none;
+}
+
+#contact-part .contact-details .round-shape {
+    display: none;
+}
+
+/* ------------------ Contact page contact.html css end -------------------- */
+
+
+/* ------------------ Coming page coming.html css start -------------------- */
+#coming-part .coming-details {
+	margin-top: 60px;
+}
+
+#coming-part .coming-details .logo img {
+    width: 30%;
+}
+
+#coming-part .coming-details h1 {
+	font-size: 35px;
+	line-height: 45px;
+	width: auto;
+	margin-top: 40px;
+}
+
+#coming-part .coming-details h1 span {
+	font-size: 40px;
+}
+
+#coming-part .coming-details p {
+	font-size: 18px;
+	line-height: 28px;
+	width: auto;
+	margin-top: 30px;
+}
+
+#coming-part .coming-details .input-group {
+	width: auto;
+	height: 48px;
+	margin-top: 45px;
+}
+
+#coming-part .coming-details .input-group .form-control {
+	font-size: 14px;
+	padding-left: 20px;
+}
+
+#coming-part .coming-details .input-group .input-button .button {
+	height: 48px;
+	font-size: 16px;
+	line-height: 48px;
+}
+
+#coming-part .coming-details .copy-right {
+	margin-top: 70px;
+}
+
+/* ------------------ Coming page coming.html css end -------------------- */
+
+    
+    /* ============================= */
+ }
+
+
+ @media (min-width:576px) and (max-width:767px){
+
+    /* ------------------ Home page index.html css start -------------------- */
+    .title {
+        margin-bottom: 20px;
+    }
+    
+    .title h1 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    
+    .title h6 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    
+    p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    
+    /* ------------------------
+        common part end
+    ------------------------------*/
+    
+    /* ------------------------
+           nav part start
+    ------------------------------*/
+    
+    nav .navbar-brand img{
+        width: 70%;
+    }
+    
+    .navbar-light .navbar-toggler {
+        font-size: 25px;
+        margin-top: 10px;
+        border-color: transparent;
+    }
+    
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 ;
+    } 
+    
+    nav .navbar-nav .nav-item{
+        text-align: center;
+    }
+    
+    .nav-button {
+        width: 110px;
+        margin:0 auto ;
+    }
+
+    nav .nav-item .nav-link::after {
+        display: none;
+    }
+    
+    /* ------------------------
+           nav part end
+    ------------------------------*/
+    
+    /* ------------------------
+        banner part start
+    ------------------------------*/
+    #banner-part {
+        margin-bottom: 50px;
+    }
+    
+    #banner-part .details-part {
+        margin-top: 50px;
+        text-align: center;
+    }
+
+    #banner-part .details-part h6 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    
+    #banner-part .details-part h1 {
+        font-size: 35px;
+        line-height: 45px;
+        width: auto;
+    }
+    
+    #banner-part .details-part p {
+        margin-bottom: 20px;
+        width: auto;
+    }
+
+    #banner-part .main {
+        justify-content: center;
+    }
+    
+    #banner-part .banner-button {
+        width: 135px;
+    }
+    
+    #banner-part .banner-button .button {
+        width: 135px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+    
+    #banner-part .play-icon {
+        width: 40px;
+        height: 40px;
+        line-height: 42px;
+        margin-top: 3px;
+    }
+    
+    #banner-part .play-icon i {
+        font-size: 16px;
+    }
+    
+    #banner-part .banner-img{
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #banner-part .banner-img img{
+        width: 65%;
+        margin-top: 10px;
+    }
+
+    #banner-part .banner-img .dot-shape {
+        bottom: -15px;
+        right: 96px;
+        width: 25%;
+    }
+    
+    #banner-part .row{
+        flex-direction: column-reverse;
+    }
+
+    #banner-part .banner-left-shape {
+        display: none;
+    }
+    
+    /* ------------------------
+         banner part end
+    ------------------------------*/
+    
+    /* ------------------------
+         brand part start
+    ------------------------------*/
+    #brand-part {
+        margin-bottom: 50px;
+    }
+    
+    #brand-part .brand-box {
+        padding: 30px 20px;
+    }
+    
+    #brand-part .brand-box h3 {
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    
+    #brand-part .brand-slider img {
+        margin-left: 10px;
+        width: 80%;
+    }
+    
+    
+    /* ------------------------
+         brand part end
+    ------------------------------*/
+    
+    /* ------------------------
+         about part start
+    ------------------------------*/
+    #about-part {
+        margin-bottom: 60px;
+    }
+    
+    #about-part .about-shape .shape-img {
+        display: none;
+    }
+    
+    #about-part .about-img{
+        text-align: center;
+    }
+    
+    #about-part .about-img img{
+        width: 65%;
+    }
+    
+    #about-part h6 {
+        margin-bottom: 20px;
+    }
+    
+    #about-part .details {
+        margin-top: 40px;
+        text-align: center;
+    }
+    
+    #about-part .details p {
+        margin-bottom: 25px;
+    }
+    
+    #about-part .details ul {
+        margin-bottom: 25px;
+    }
+    
+    #about-part .details ul li {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+    
+    #about-part .details ul li i {
+        width: 16px;
+        height: 16px;
+        line-height: 17px;
+        font-size: 9px;
+    }
+    
+    #about-part .details .about-button {
+        width: 135px;
+        margin: 0 auto;
+    }
+    
+    #about-part .details .about-button .button {
+        width: 135px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+
+    #about-part .about-img .round-shape {
+        display: none;
+    }
+
+    #about-part .shape-two {
+        display: none;
+    }
+    
+    /* ------------------------
+         about part end
+    ------------------------------*/
+    
+    /* ------------------------
+        marketing part start
+    ------------------------------*/
+    #marketing-part {
+        margin-bottom: 60px;
+    }
+    
+    #marketing-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #marketing-part .marketing-shape .shape-img {
+        display: none;
+    }
+    
+    #marketing-part .title h1 {
+        width: auto;
+    }
+   
+    #marketing-part .item {
+        margin-top: 20px;
+        text-align: center;
+        padding: 20px 10px;
+    }
+
+    #marketing-part .item .img img{
+        width: 30%;
+    }
+    
+    #marketing-part .item h4 {
+        margin-bottom: 15px;
+        margin-top: 18px;
+    }
+    
+    #marketing-part .item p {
+        margin-bottom: 15px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    #marketing-part .title .round-shape {
+        display: none;
+    }
+    
+    /* ------------------------
+        marketing part end
+    ------------------------------*/
+    
+    /* ------------------------
+        boost part start
+    ------------------------------*/
+    #boosts-part {
+        margin-bottom: 60px;
+    }
+    
+    #boosts-part .boosts-details {
+        margin-top: 40px;
+        text-align: center;
+    }
+    
+    #boosts-part .boosts-details .input-group {
+        height: 46px;
+        margin-top: 35px;
+    }
+    
+    #boosts-part .boosts-details .input-group .form-control {
+        font-size: 13px;
+    }
+    
+    #boosts-part .boosts-details .boosts-button {
+        width: 160px;
+        margin-top: 35px !important;
+        margin: 0 auto;
+    }
+    
+    #boosts-part .boosts-details .boosts-button .button {
+        width: 160px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+    
+    #boosts-part .boosts-img{
+        text-align: center;
+    }
+    
+    #boosts-part .boosts-img img{
+        width: 65%;
+    }
+    
+    #boosts-part .row{
+        flex-direction: column-reverse;
+    }
+
+    #boosts-part .boosts-details .round-shape {
+        display: none;
+    }
+    
+    /* ------------------------
+        boost part end
+    ------------------------------*/
+    
+    /* ------------------------
+        pricing part start
+    ------------------------------*/
+    #pricing-part {
+        margin-bottom: 60px;
+    }
+    
+    #pricing-part .main-item {
+        display:block;
+    }
+    
+    #pricing-part .item {
+        margin-top: 40px;
+        width: 100%;
+        padding-left: 140px;
+    }
+
+    #pricing-part .item h1 {
+        font-size: 35px;
+        margin-top: 20px;
+    }
+    
+    #pricing-part .item .price-button {
+        width: 170px;
+    }
+    
+    #pricing-part .item .price-button .item-button {
+        width: 170px;
+        height: 47px;
+        font-size: 16px;
+        line-height: 47px;
+    }
+    
+    #pricing-part .regular-item {
+       padding: 40px;
+        position: static !important;
+        width: 100%;
+       margin-top: 40px;
+       padding-left: 142px;
+    }
+    
+    #pricing-part .regular-item h1 {
+        font-size: 35px;
+        margin-top: 20px;
+    }
+    
+    #pricing-part .regular-item .price-button {
+        width: 170px;
+    }
+
+    #pricing-part .regular-item .price-button .item-button {
+        width: 170px;
+        height: 47px;
+        font-size: 16px;
+        line-height: 47px;
+    }
+    
+    #pricing-part .title h1 {
+        width: auto;
+    }
+
+    #pricing-part .title .round-shape {
+        display: none;
+    }
+
+    #pricing-part .shape-one {
+        display: none;
+    }
+
+    
+    /* ------------------------
+        pricing part end
+    ------------------------------*/
+    
+    /* ------------------------
+        success part end
+    ------------------------------*/
+    #success-part {
+        margin-bottom: 60px;
+    }
+    
+    #success-part .success-img{
+        text-align: center;
+    }
+    
+    #success-part .success-img img{
+        width: 65%;
+    }
+    
+    #success-part .success-details{
+        margin-top: 40px;
+        text-align: center;
+    }
+    
+    #success-part .success-details .title h1 {
+        width: auto;
+    }
+    
+    #success-part .success-details .count-part {
+        margin-top: 20px;
+        text-align: center;
+    }
+    
+    #success-part .success-details .count-part .left-count{
+        margin-bottom: 30px;
+    }
+    
+    #success-part .success-details .count-part .left-count h2 {
+        font-size: 35px;
+    }
+    
+    #success-part .success-details .count-part .left-count h6 {
+        width: auto;
+    }
+    
+    #success-part .success-details .count-part .middle-count{
+        margin-bottom: 30px;
+    }
+    
+    #success-part .success-details .count-part .middle-count h2 {
+        font-size: 35px;
+    }
+    
+    #success-part .success-details .count-part .middle-count h6 {
+        width: auto;
+    }
+    
+    #success-part .success-details .count-part .right-count{
+        margin-bottom: 30px;
+    }
+    
+    #success-part .success-details .count-part .right-count h2 {
+        font-size: 35px;
+    }
+    
+    #success-part .success-details .count-part .right-count h6 {
+        width: auto;
+    }
+    
+    #success-part .success-details .success-button{
+        width: 190px;
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+    
+    #success-part .success-details .success-button .button {
+        width: 190px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 15px;
+    }
+
+    #success-part .success-img .round-shape {
+        display: none;
+    }
+    
+    
+    /* ------------------------
+        success part end
+    ------------------------------*/
+    
+    /* ------------------------
+        services part start
+    ------------------------------*/
+    #services-part {
+        margin-bottom: 60px;
+    }
+    
+    #services-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #services-part .title h1 {
+        width: auto;
+    }
+    
+    #services-part .services-slider .slider-box {
+        background: #ffffff;
+        padding: 35px 30px;
+        border-radius: 20px;
+        margin-bottom: 30px;
+    }
+    
+    #services-part .services-slider .slick-list {
+        padding-bottom: 130px !important;
+    }
+    
+    #services-part .services-slider .slider-box p {
+        padding: 0 10px;
+        margin-top: 20px;
+        text-align: justify;
+        line-height: 20px;
+    }
+    
+    #services-part .services-slider .slider-box .icon i {
+        font-size: 16px;
+    }
+    
+    #services-part .services-slider .slider-box .icon {
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+    
+    #services-part .services-img{
+        text-align: center;
+        margin-top: 120px;
+    }
+    
+    #services-part .services-img img{
+        width: 65%;
+    }
+
+    #services-part .services-img .dot-shape {
+        bottom: -13px;
+        right: 76px;
+    }
+    
+    #services-part .prev {
+        width: 30px;
+        height: 30px;
+        line-height: 29px;
+        font-size: 15px;
+        top: 107%;
+        left: 38%;
+        z-index: 3;
+    }
+    
+    #services-part .next {
+        width: 30px;
+        height: 30px;
+        line-height: 29px;
+        font-size: 15px;
+        top: 107%;
+        left: 48%;
+    }
+
+    #services-part .title .round-shape {
+        display: none;
+    }
+
+    #services-part .shape-two {
+        display: none;
+    }
+    
+    /* ------------------------
+        services part end
+    ------------------------------*/
+    
+    /* ------------------------
+        studies part start
+    ------------------------------*/
+    #studies-part {
+        margin-bottom: 30px;
+    }
+    
+    #studies-part .bg-box {
+        padding: 65px 20px 30px 20px;
+    }
+    
+    #studies-part .slick-dots {
+        margin-top: 40px;
+        padding-left: 0;
+    }
+    
+    #studies-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #studies-part .title h1 {
+        width: auto;
+    }
+
+    #studies-part .studies-slider .studies-item .iner-item {
+        padding: 40px 100px;
+    }
+    
+    /* ------------------------
+        studies part end
+    ------------------------------*/
+    
+    /* ------------------------
+        news part start
+    ------------------------------*/
+    #news-part {
+        margin-bottom: 60px;
+    }
+    
+    #news-part .news-img{
+        text-align: center;
+    }
+    
+    #news-part .news-img img{
+        width: 65%;
+    }
+    
+    #news-part .news-details{
+        margin-top: 40px;
+        text-align: center;
+    }
+    
+    #news-part .news-details .input-group {
+        width: 300px;
+        height: 45px;
+        margin-top: 30px !important;
+        margin: 0 auto;
+    }
+    
+    #news-part .news-details .input-group .form-control {
+        font-size: 13px;
+    }
+    
+    #news-part .news-details .news-button{
+        width: 160px;
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+    
+    #news-part .news-details .news-button .button {
+        width: 160px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+
+    #news-part .news-details .round-shape {
+        display: none;
+    }
+
+    #news-part .shape-one {
+        display: none;
+    }
+    
+    /* ------------------------
+        news part end
+    ------------------------------*/
+    
+    /* ------------------------
+        footer part start
+    ------------------------------*/
+    
+    #footer-part {
+        margin-bottom: 30px;
+    }
+    
+    #footer-part .footer-contain-bg {
+        padding: 40px 0px 0px 0px;
+    }
+    
+    #footer-part .left-item {
+        text-align: center;
+    }
+    
+    #footer-part .left-item .logo img{
+        width: 30%;
+    }
+    
+    #footer-part .left-item p {
+        font-size: 15px;
+        margin-top: 25px !important;
+        margin: 0 auto;
+    }
+    
+    #footer-part .middle-item {
+        margin-top: 30px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    #footer-part .middle-item ul {
+        margin-top: 15px;
+    }
+    
+    #footer-part .right-item{
+        text-align: center;
+        margin-top: 30px;
+    }
+    
+    #footer-part .right-item address {
+        margin-top: 20px;
+    }
+    
+    #footer-part .right-item address figure {
+        font-size: 15px;
+        margin-bottom: 12px !important;
+        margin: 0 auto;
+    }
+    
+    #footer-part .footer-contain-bg .main-item {
+        padding-bottom: 39px;
+    }
+    
+    #footer-part .footer-contain-bg .copy-right .main p {
+        font-size: 15px;
+        width: 60%;
+        padding-left: 10px;
+        text-align: center;
+    }
+    
+    #footer-part .footer-contain-bg .copy-right .icon{
+        padding-right: 10px;
+        width: 45%;
+        text-align: center;
+    }
+    
+    #footer-part .footer-contain-bg .copy-right .main .icon i {
+        margin-top: 8px;
+    }
+    
+    /* ------------------------
+        footer part end
+    ------------------------------*/
+    
+    /* ------------------ Home page index.html css end -------------------- */
+    
+/* ------------------ About page about.html css end -------------------- */
+
+#about-title {
+	margin: 50px 0;
+}
+
+#about-title .title h5 {
+	margin-top: 14px;
+}
+
+#about-title .about-left-shape {
+	display: none;
+}
+
+#marketing-part .item {
+	margin-top: 30px;
+}
+
+#marketing-part .item .round {
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	top: 12px;
+	left: 17px;
+	font-size: 16px;
+}
+
+#marketing-part .item .hover-shape {
+	display: none;
+}
+
+#research-part {
+	margin-bottom: 60px;
+}
+
+#research-part .row {
+    flex-direction: column-reverse;
+}
+
+#research-part .details{
+    margin-top: 40px;
+}
+
+#research-part .details h2 {
+	font-size: 22px;
+	line-height: 30px;
+	margin-bottom: 10px;
+}
+
+#research-part .details p {
+	margin-bottom: 18px;
+}
+
+#research-part .details ul {
+	margin-bottom: 25px;
+}
+
+#research-part .details ul li {
+	font-size: 15px;
+	margin-bottom: 8px;
+}
+
+#research-part .details ul li i {
+	width: 15px;
+	height: 15px;
+	line-height: 16px;
+	font-size: 9px;
+}
+
+#research-part .details .research-button{
+    width: 135px;
+}
+
+#research-part .details .research-button .button {
+	width: 135px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 16px;
+}
+
+#research-part .research-img {
+    text-align: center;
+}
+
+#research-part .research-img img{
+    width: 65%;
+}
+
+#research-part .research-img .round-shape {
+	display: none;
+}
+
+#team-part {
+	margin-bottom: 70px;
+}
+
+#team-part .item{
+    margin-top: 20px;
+}
+
+#team-part .item .iner-item {
+	margin: 0 auto;
+}
+
+#team-part .item .iner-item .img .img-overlay {
+	height: 270px;
+	top: -2px;
+}
+
+#team-part .item h4 {
+	font-size: 18px;
+	margin-top: 20px;
+    margin-bottom: 0;
+}
+
+#team-part .item p {
+	font-size: 15px;
+}
+
+#services-part .services-img .round-shape {
+	display: none;
+}
+
+/* ------------------ About page index.html css end -------------------- */
+
+/* ------------------ Services page services.html css start -------------------- */
+
+#service-title {
+	margin: 50px 0;
+}
+
+#service-title .title h5 {
+	margin-top: 14px;
+}
+
+#service-title .service-left-shape {
+    display: none;
+}
+
+/* ------------------ Services page services.html css end -------------------- */
+
+
+/* ------------------ Pricing page pricing.html css start -------------------- */
+
+#priceing-title {
+	margin: 50px 0;
+}
+
+#priceing-title .title h5 {
+	margin-top: 14px;
+}
+
+#priceing-title .pricing-left-shape {
+	display: none;
+}
+
+#success-part .shape-one {
+	display: none;
+}
+
+/* ------------------ Pricing page pricing.html css end -------------------- */
+
+
+/* ------------------ Contact page contact.html css start -------------------- */
+
+#contact-title {
+	margin: 50px 0;
+}
+
+#contact-title .title h5 {
+	margin-top: 14px;
+}
+
+#contact-part {
+	margin-bottom: 60px;
+}
+
+#contact-part .contact-img{
+    text-align: center;
+}
+
+#contact-part .contact-img img{
+    width: 65%;
+}
+
+#contact-part .contact-details {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#contact-part .contact-details .input-group {
+	width: 350px;
+	height: 45px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#contact-part .contact-details .message-form {
+	width: 350px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#contact-part .contact-details .contact-button{
+    width: 160px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+#contact-part .contact-details .contact-button .button {
+	width: 160px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 16px;
+}
+
+#map-part {
+	margin-bottom: 60px;
+}
+
+#map-part .map-img img{
+    width: 100%;
+}
+
+#contact-title .contact-left-shape {
+    display: none;
+}
+
+#map-part .shape-one {
+    display: none;
+}
+
+#contact-part .contact-details .round-shape {
+    display: none;
+}
+
+
+/* ------------------ Contact page contact.html css end -------------------- */
+
+
+/* ------------------ Coming page coming.html css start -------------------- */
+#coming-part .coming-details {
+	margin-top: 70px;
+}
+
+#coming-part .coming-details .logo img {
+    width: 30%;
+}
+
+#coming-part .coming-details h1 {
+	font-size: 40px;
+	line-height: 50px;
+	width: 400px;
+	margin-top: 50px;
+}
+
+#coming-part .coming-details h1 span {
+	font-size: 45px;
+}
+
+#coming-part .coming-details p {
+	font-size: 19px;
+	line-height: 28px;
+	width: auto;
+	margin-top: 35px;
+}
+
+#coming-part .coming-details .input-group {
+	width: auto;
+	height: 50px;
+	margin-top: 45px;
+}
+
+#coming-part .coming-details .input-group .form-control {
+	font-size: 15px;
+	padding-left: 22px;
+}
+
+#coming-part .coming-details .input-group .input-button .button {
+	height: 50px;
+	font-size: 17px;
+	line-height: 50px;
+}
+
+#coming-part .coming-details .copy-right {
+	margin-top: 80px;
+}
+
+/* ------------------ Coming page coming.html css end -------------------- */
+
+    
+    /* ============================= */
+ }
+
+
+ @media (min-width:768px) and (max-width:991.98px){
+
+    /* ------------------ Home page index.html css start -------------------- */
+    .title {
+        margin-bottom: 20px;
+    }
+    
+    .title h1 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    
+    .title h6 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    
+    p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    
+    /* ------------------------
+        common part end
+    ------------------------------*/
+    
+    /* ------------------------
+           nav part start
+    ------------------------------*/
+    
+    nav .navbar-brand img{
+        width: 70%;
+    }
+    
+    .navbar-light .navbar-toggler {
+        font-size: 25px;
+        margin-top: 10px;
+        border-color: transparent;
+    }
+    
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 ;
+    } 
+    
+    nav .navbar-nav .nav-item{
+        text-align: center;
+    }
+    
+    .nav-button {
+        width: 110px;
+        margin:0 auto ;
+    }
+
+    nav .nav-item .nav-link::after {
+        display: none;
+    }
+    
+    /* ------------------------
+           nav part end
+    ------------------------------*/
+    
+    /* ------------------------
+        banner part start
+    ------------------------------*/
+    #banner-part {
+        margin-bottom: 50px;
+    }
+    
+    #banner-part .details-part {
+        margin-top: 50px;
+    }
+
+    #banner-part .details-part h6 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    
+    #banner-part .details-part h1 {
+        font-size: 35px;
+        line-height: 45px;
+        width: auto;
+    }
+    
+    #banner-part .details-part p {
+        margin-bottom: 20px;
+        width: auto;
+    }
+ 
+    #banner-part .banner-button {
+        width: 135px;
+    }
+    
+    #banner-part .banner-button .button {
+        width: 135px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+    
+    #banner-part .play-icon {
+        width: 40px;
+        height: 40px;
+        line-height: 42px;
+        margin-top: 3px;
+    }
+    
+    #banner-part .play-icon i {
+        font-size: 16px;
+    }
+    
+    #banner-part .banner-img {
+        margin-top: 15px;
+        position: relative;
+    }
+    
+    #banner-part .banner-img img{
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    #banner-part .banner-img .dot-shape {
+        position: absolute;
+        bottom: -15px;
+        right: 1px;
+        width: 40%;
+    }
+    
+    /* ------------------------
+         banner part end
+    ------------------------------*/
+    
+    /* ------------------------
+         brand part start
+    ------------------------------*/
+    #brand-part {
+        margin-bottom: 50px;
+    }
+    
+    #brand-part .brand-box {
+        padding: 45px 20px;
+    }
+    
+    #brand-part .brand-box h3 {
+        font-size: 26px;
+        margin-bottom: 30px;
+    }
+    
+    #brand-part .brand-slider img {
+        margin-left: 10px;
+        width: 80%;
+    }
+    
+    
+    /* ------------------------
+         brand part end
+    ------------------------------*/
+    
+    /* ------------------------
+         about part start
+    ------------------------------*/
+    #about-part {
+        margin-bottom: 60px;
+    }
+    
+    #about-part .about-shape .shape-img {
+        display: none;
+    }
+    
+    #about-part .about-img{
+        text-align: center;
+        margin-top: 40px;
+    }
+    
+    #about-part .about-img img{
+        width: 100%;
+    }
+
+    #about-part .about-img .round-shape {
+        display: none;
+    }
+    
+    #about-part h6 {
+        margin-bottom: 20px;
+    }
+    
+    #about-part .details {
+        margin-top: 40px;
+    }
+    
+    #about-part .details p {
+        margin-bottom: 25px;
+    }
+    
+    #about-part .details ul {
+        margin-bottom: 25px;
+    }
+    
+    #about-part .details ul li {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+    
+    #about-part .details ul li i {
+        width: 16px;
+        height: 16px;
+        line-height: 17px;
+        font-size: 9px;
+    }
+    
+    #about-part .details .about-button {
+        width: 135px;
+        margin: 0 auto;
+    }
+    
+    #about-part .details .about-button .button {
+        width: 135px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+
+    #about-part .shape-two {
+        display: none;
+    }
+    
+    /* ------------------------
+         about part end
+    ------------------------------*/
+    
+    /* ------------------------
+        marketing part start
+    ------------------------------*/
+    #marketing-part {
+        margin-bottom: 60px;
+    }
+    
+    #marketing-part .title {
+        margin-bottom: 30px;
+    }
+
+    #marketing-part .title .round-shape {
+        display: none;
+    }
+    
+    #marketing-part .marketing-shape .shape-img {
+        display: none;
+    }
+ 
+    #marketing-part .item {
+        margin-top: 20px;
+        text-align: center;
+        padding: 20px 10px;
+    }
+
+    #marketing-part .item .img img{
+        width: 25%;
+    }
+    
+    #marketing-part .item h4 {
+        margin-bottom: 15px;
+        margin-top: 18px;
+    }
+    
+    #marketing-part .item p {
+        margin-bottom: 15px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    
+    /* ------------------------
+        marketing part end
+    ------------------------------*/
+    
+    /* ------------------------
+        boost part start
+    ------------------------------*/
+    #boosts-part {
+        margin-bottom: 60px;
+    }
+    
+    #boosts-part .boosts-details {
+        margin-top: 40px;
+    }
+
+    #boosts-part .boosts-details .round-shape {
+        display: none;
+    }
+    
+    #boosts-part .boosts-details .input-group {
+        height: 46px;
+        margin-top: 35px;
+    }
+    
+    #boosts-part .boosts-details .input-group .form-control {
+        font-size: 13px;
+    }
+    
+    #boosts-part .boosts-details .boosts-button {
+        width: 160px;
+        margin-top: 35px;
+    }
+    
+    #boosts-part .boosts-details .boosts-button .button {
+        width: 160px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+    
+    #boosts-part .boosts-img{
+        text-align: center;
+    }
+    
+    #boosts-part .boosts-img img{
+        width: 100%;
+    }
+     
+    /* ------------------------
+        boost part end
+    ------------------------------*/
+    
+    /* ------------------------
+        pricing part start
+    ------------------------------*/
+    #pricing-part {
+        margin-bottom: 60px;
+    }
+
+    #pricing-part .item-col {
+        padding: 0 10px !important;
+    }
+    
+    #pricing-part .main-item {
+        display:contents;
+    }
+    
+    #pricing-part .item {
+        margin-top: 40px;
+        width: 100%;
+    }
+
+    #pricing-part .item h1 {
+        font-size: 35px;
+        margin-top: 20px;
+    }
+    
+    #pricing-part .item .price-button {
+        width: 170px;
+    }
+    
+    #pricing-part .item .price-button .item-button {
+        width: 170px;
+        height: 47px;
+        font-size: 16px;
+        line-height: 47px;
+    }
+    
+    #pricing-part .regular-item {
+       padding: 40px;
+        position: static !important;
+        width: 100%;
+       margin-top: 40px;
+    }
+    
+    #pricing-part .regular-item h1 {
+        font-size: 35px;
+        margin-top: 20px;
+    }
+    
+    #pricing-part .regular-item .price-button {
+        width: 170px;
+    }
+
+    #pricing-part .regular-item .price-button .item-button {
+        width: 170px;
+        height: 47px;
+        font-size: 16px;
+        line-height: 47px;
+    }
+
+    #pricing-part .res-md{
+        margin: 0 auto;
+    }
+
+    #pricing-part .title .round-shape {
+        display: none;
+    }
+
+    #pricing-part .shape-one {
+        display: none;
+    }
+    
+    /* ------------------------
+        pricing part end
+    ------------------------------*/
+    
+    /* ------------------------
+        success part end
+    ------------------------------*/
+    #success-part {
+        margin-bottom: 60px;
+    }
+  
+    #success-part .success-img img{
+        width: 100%;
+    }
+    
+    #success-part .success-details .title h1 {
+        width: auto;
+    }
+    
+    #success-part .success-details .count-part {
+        margin-top: 20px;
+        text-align: center;
+    }
+    
+    #success-part .success-details .count-part .left-count{
+        margin-bottom: 30px;
+    }
+    
+    #success-part .success-details .count-part .left-count h2 {
+        font-size: 35px;
+    }
+    
+    #success-part .success-details .count-part .left-count h6 {
+        width: auto;
+        font-size: 15px;
+    }
+    
+    #success-part .success-details .count-part .middle-count{
+        margin-bottom: 30px;
+    }
+    
+    #success-part .success-details .count-part .middle-count h2 {
+        font-size: 35px;
+    }
+    
+    #success-part .success-details .count-part .middle-count h6 {
+        width: auto;
+        font-size: 15px;
+    }
+    
+    #success-part .success-details .count-part .right-count{
+        margin-bottom: 30px;
+    }
+    
+    #success-part .success-details .count-part .right-count h2 {
+        font-size: 35px;
+    }
+    
+    #success-part .success-details .count-part .right-count h6 {
+        width: auto;
+        font-size: 15px;
+    }
+    
+    #success-part .success-details .success-button{
+        width: 190px;
+        margin-top: 15px;
+    }
+    
+    #success-part .success-details .success-button .button {
+        width: 190px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 15px;
+    }
+
+    #success-part .success-img .round-shape {
+        display: none;
+    }
+    
+    
+    /* ------------------------
+        success part end
+    ------------------------------*/
+    
+    /* ------------------------
+        services part start
+    ------------------------------*/
+    #services-part {
+        margin-bottom: 100px;
+    }
+    
+    #services-part .title {
+        margin-bottom: 45px;
+    }
+    
+    #services-part .title h1 {
+        width: auto;
+    }
+
+    #services-part .title .round-shape {
+        display: none;
+    }
+    
+    #services-part .services-slider .slider-box {
+        background: #ffffff;
+        padding: 25px 30px;
+        border-radius: 20px;
+        margin-bottom: 30px;
+    }
+    
+    #services-part .services-slider .slick-list {
+        padding-bottom: 100px !important;
+    }
+
+    #services-part .services-slider .slider-box .identity .img img {
+        width: 80%;
+        margin-top: 4px;
+    }
+
+    #services-part .services-slider .slider-box .identity .name {
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+
+    #services-part .services-slider .slider-box .identity .name h4 {
+        font-size: 18px;
+        margin-bottom: 0px;
+    }
+
+    #services-part .services-slider .slider-box .identity .name h6 {
+        font-size: 15px;
+    }
+    
+    #services-part .services-slider .slider-box p {
+        padding: 0 0px;
+        margin-top: 10px;
+        text-align: justify;
+        line-height: 20px;
+        font-size: 15px;
+    }
+    
+    #services-part .services-slider .slider-box .icon i {
+        font-size: 16px;
+    }
+    
+    #services-part .services-slider .slider-box .icon {
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+    
+    #services-part .services-img{
+        margin-top: 15px;
+    }
+    
+    #services-part .services-img img{
+        width: 100%;
+    }
+
+    #services-part .services-img .dot-shape {
+        bottom: -23px;
+        right: 8px;
+        width: 40%;
+    }
+    
+    #services-part .prev {
+        width: 30px;
+        height: 30px;
+        line-height: 29px;
+        font-size: 15px;
+        top: 107%;
+        left: 35%;
+        z-index: 3;
+    }
+    
+    #services-part .next {
+        width: 30px;
+        height: 30px;
+        line-height: 29px;
+        font-size: 15px;
+        top: 107%;
+        left: 50%;
+    }
+
+    #services-part .shape-two {
+        display: none;
+    }
+    
+    /* ------------------------
+        services part end
+    ------------------------------*/
+    
+    /* ------------------------
+        studies part start
+    ------------------------------*/
+    #studies-part {
+        margin-bottom: 30px;
+    }
+    
+    #studies-part .bg-box {
+        padding: 65px 20px 30px 20px;
+    }
+    
+    #studies-part .slick-dots {
+        margin-top: 40px;
+        padding-left: 0;
+    }
+    
+    #studies-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #studies-part .title h1 {
+        width: auto;
+    }
+
+    #studies-part .studies-slider .studies-item .iner-item {
+        padding: 30px 30px;
+    }
+
+    #studies-part .studies-slider .studies-item .iner-item .img img{
+        width: 100%;
+    }
+    
+    /* ------------------------
+        studies part end
+    ------------------------------*/
+    
+    /* ------------------------
+        news part start
+    ------------------------------*/
+    #news-part {
+        margin-bottom: 60px;
+    }
+    
+    #news-part .news-img{
+        text-align: center;
+    }
+    
+    #news-part .news-img img{
+        width: 100%;
+    }
+    
+    #news-part .news-details .input-group {
+        width: 300px;
+        height: 45px;
+        margin-top: 30px;
+    }
+    
+    #news-part .news-details .input-group .form-control {
+        font-size: 13px;
+    }
+    
+    #news-part .news-details .news-button{
+        width: 160px;
+        margin-top: 20px;
+    }
+    
+    #news-part .news-details .news-button .button {
+        width: 160px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+
+    #news-part .news-details .round-shape {
+        display: none;
+    }
+
+    #news-part .shape-one {
+        display: none;
+    }
+    
+    /* ------------------------
+        news part end
+    ------------------------------*/
+    
+    /* ------------------------
+        footer part start
+    ------------------------------*/
+    
+    #footer-part {
+        margin-bottom: 30px;
+    }
+    
+    #footer-part .footer-contain-bg {
+        padding: 40px 25px 0px 25px;
+    }
+    
+    #footer-part .left-item {
+        text-align: center;
+    }
+    
+    #footer-part .left-item .logo img{
+        width: 30%;
+    }
+    
+    #footer-part .left-item p {
+        font-size: 15px;
+        margin-top: 25px !important;
+        margin: 0 auto;
+    }
+    
+    #footer-part .middle-item {
+        padding-left: 80px;
+    }
+    
+    #footer-part .middle-item ul {
+        margin-top: 15px;
+    }
+    
+    #footer-part .right-item{
+        text-align: center;
+    }
+    
+    #footer-part .right-item address {
+        margin-top: 20px;
+    }
+    
+    #footer-part .right-item address figure {
+        font-size: 15px;
+        margin-bottom: 12px !important;
+        margin: 0 auto;
+    }
+    
+    #footer-part .footer-contain-bg .main-item {
+        padding-bottom: 39px;
+    }
+    
+    #footer-part .footer-contain-bg .copy-right .main p {
+        font-size: 15px;
+        width: 60%;
+        padding-left: 10px;
+        text-align: center;
+    }
+    
+    #footer-part .footer-contain-bg .copy-right .icon{
+        width: 45%;
+        text-align: right;
+    }
+    
+    #footer-part .footer-contain-bg .copy-right .main .icon i {
+        margin-top: 8px;
+    }
+    
+    /* ------------------------
+        footer part end
+    ------------------------------*/
+    
+    /* ------------------ Home page index.html css end -------------------- */
+    
+/* ------------------ About page about.html css end -------------------- */
+
+#about-title {
+	margin: 50px 0;
+}
+
+#about-title .title h5 {
+	margin-top: 14px;
+}
+
+#about-title .about-left-shape {
+	display: none;
+}
+
+#marketing-part .item {
+	margin-top: 30px;
+}
+
+#marketing-part .item .round {
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	top: 12px;
+	left: 17px;
+	font-size: 16px;
+}
+
+#marketing-part .item .hover-shape {
+	display: none;
+}
+
+#research-part {
+	margin-bottom: 60px;
+}
+
+#research-part .details{
+    margin-top: 40px;
+}
+
+#research-part .details h2 {
+	font-size: 22px;
+	line-height: 30px;
+	margin-bottom: 10px;
+}
+
+#research-part .details p {
+	margin-bottom: 18px;
+}
+
+#research-part .details ul {
+	margin-bottom: 25px;
+}
+
+#research-part .details ul li {
+	font-size: 15px;
+	margin-bottom: 8px;
+}
+
+#research-part .details ul li i {
+	width: 15px;
+	height: 15px;
+	line-height: 16px;
+	font-size: 9px;
+}
+
+#research-part .details .research-button{
+    width: 135px;
+}
+
+#research-part .details .research-button .button {
+	width: 135px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 16px;
+}
+
+#research-part .research-img {
+    text-align: center;
+}
+
+#research-part .research-img img{
+    width: 100%;
+    margin-top: 40px;
+}
+
+#research-part .research-img .round-shape {
+	display: none;
+}
+
+#team-part {
+	margin-bottom: 70px;
+}
+
+#team-part .item{
+    margin-top: 20px;
+}
+
+#team-part .item .iner-item {
+	margin: 0 auto;
+}
+
+#team-part .item .iner-item .img .img-overlay {
+	height: 270px;
+	top: -2px;
+}
+
+#team-part .item h4 {
+	font-size: 18px;
+	margin-top: 20px;
+    margin-bottom: 0;
+}
+
+#team-part .item p {
+	font-size: 15px;
+}
+
+#services-part .services-img .round-shape {
+	display: none;
+}
+
+/* ------------------ About page index.html css end -------------------- */
+
+/* ------------------ Services page services.html css start -------------------- */
+
+#service-title {
+	margin: 50px 0;
+}
+
+#service-title .title h5 {
+	margin-top: 14px;
+}
+
+#service-title .service-left-shape {
+    display: none;
+}
+
+/* ------------------ Services page services.html css end -------------------- */
+
+
+/* ------------------ Pricing page pricing.html css start -------------------- */
+
+#priceing-title {
+	margin: 50px 0;
+}
+
+#priceing-title .title h5 {
+	margin-top: 14px;
+}
+
+#priceing-title .pricing-left-shape {
+	display: none;
+}
+
+#success-part .shape-one {
+	display: none;
+}
+
+/* ------------------ Pricing page pricing.html css end -------------------- */
+
+
+/* ------------------ Contact page contact.html css start -------------------- */
+
+#contact-title {
+	margin: 50px 0;
+}
+
+#contact-title .title h5 {
+	margin-top: 14px;
+}
+
+#contact-part {
+	margin-bottom: 60px;
+}
+
+#contact-part .contact-img{
+    text-align: center;
+    margin-top: 100px;
+}
+
+#contact-part .contact-img img{
+    width: 100%;
+}
+
+#contact-part .contact-details {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#contact-part .contact-details .input-group {
+	width: auto;
+	height: 45px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#contact-part .contact-details .message-form {
+	width: auto;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#contact-part .contact-details .contact-button{
+    width: 160px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+#contact-part .contact-details .contact-button .button {
+	width: 160px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 16px;
+}
+
+#map-part {
+	margin-bottom: 60px;
+}
+
+#map-part .map-img img{
+    width: 100%;
+}
+
+#contact-title .contact-left-shape {
+    display: none;
+}
+
+#map-part .shape-one {
+    display: none;
+}
+
+#contact-part .contact-details .round-shape {
+    display: none;
+}
+
+/* ------------------ Contact page contact.html css end -------------------- */
+
+
+/* ------------------ Coming page coming.html css start -------------------- */
+#coming-part .coming-details {
+	margin-top: 90px;
+}
+
+#coming-part .coming-details h1 {
+	font-size: 60px;
+	line-height: 70px;
+	width: 540px;
+	margin-top: 70px;
+}
+
+#coming-part .coming-details h1 span {
+	font-size: 70px;
+}
+
+#coming-part .coming-details p {
+	font-size: 22px;
+	line-height: 35px;
+	width: auto;
+	margin-top: 35px;
+}
+
+#coming-part .coming-details .input-group {
+	width: auto;
+	height: 52px;
+	margin-top: 45px;
+}
+
+#coming-part .coming-details .input-group .form-control {
+	font-size: 16px;
+	padding-left: 25px;
+}
+
+#coming-part .coming-details .input-group .input-button .button {
+	height: 52px;
+	font-size: 18px;
+	line-height: 52px;
+}
+
+#coming-part .coming-details .copy-right {
+	margin-top: 140px;
+}
+
+/* ------------------ Coming page coming.html css end -------------------- */
+
+    
+    /* ============================= */
+ }  
+
+
+ @media (min-width:992px) and (max-width:1199.98px){
+
+    /* ------------------ Home page index.html css start -------------------- */
+    .title {
+        margin-bottom: 30px;
+    }
+    
+    .title h1 {
+        font-size: 38px;
+        line-height: 50px;
+    }
+    
+    .title h6 {
+        font-size: 18px;
+        margin-bottom: 25px;
+    }
+    
+    p {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    
+    /* ------------------------
+        common part end
+    ------------------------------*/
+    
+    /* ------------------------
+           nav part start
+    ------------------------------*/
+    nav{
+        margin-bottom: 95px;
+    }
+
+    nav .navbar-brand img{
+        width: 70%;
+    }
+    
+    .navbar-light .navbar-toggler {
+        font-size: 25px;
+        margin-top: 10px;
+        border-color: transparent;
+    }
+    
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 ;
+    } 
+    
+ .navbar-expand-lg .navbar-nav {
+        margin-right: 0px;
+    }
+
+    nav .navbar-nav .nav-item{
+        text-align: center;
+    }
+
+    nav .nav-item .nav-link {
+        margin-left: 20px;
+    }
+    
+    .nav-button {
+        width: 110px;
+        margin-left: 30px;
+    }
+    
+    /* ------------------------
+           nav part end
+    ------------------------------*/
+    
+    /* ------------------------
+        banner part start
+    ------------------------------*/
+    #banner-part {
+        margin-bottom: 130px;
+    }
+    
+    #banner-part .details-part {
+        margin-top: 100px;
+    }
+
+    #banner-part .details-part h6 {
+        font-size: 20px;
+        margin-bottom: 25px;
+    }
+    
+    #banner-part .details-part h1 {
+        font-size: 45px;
+        line-height: 55px;
+        width: auto;
+    }
+    
+    #banner-part .details-part p {
+        margin-bottom: 20px;
+        width: auto;
+    }
+ 
+    #banner-part .banner-button {
+        width: 165px;
+    }
+    
+    #banner-part .banner-button .button {
+        width: 160px;
+        height: 51px;
+        line-height: 51px;
+        font-size: 18px;
+    }
+    
+    #banner-part .play-icon {
+        width: 50px;
+        height: 50px;
+        line-height: 52px;
+        margin-top: 3px;
+    }
+    
+    #banner-part .play-icon i {
+        font-size: 18px;
+    }
+    
+    #banner-part .banner-img {
+        margin-top: 0px;
+    }
+    
+    #banner-part .banner-img img{
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    #banner-part .banner-img .dot-shape {
+        bottom: 0px;
+        right: 28px;
+        width: 30%;
+    }
+    
+    /* ------------------------
+         banner part end
+    ------------------------------*/
+    
+    /* ------------------------
+         brand part start
+    ------------------------------*/
+    #brand-part {
+        margin-bottom: 130px;
+    }
+    
+    #brand-part .brand-box {
+        padding: 65px 20px;
+    }
+    
+    #brand-part .brand-box h3 {
+        font-size: 28px;
+        margin-bottom: 30px;
+    }
+    
+    #brand-part .brand-slider img {
+        margin-left: 10px;
+        width: 80%;
+    }
+    
+    
+    /* ------------------------
+         brand part end
+    ------------------------------*/
+    
+    /* ------------------------
+         about part start
+    ------------------------------*/
+    #about-part {
+        margin-bottom: 130px;
+    }
+    
+    #about-part .about-shape .shape-img {
+        display: none;
+    }
+    
+    #about-part .about-img{
+        text-align: center;
+    }
+    
+    #about-part .about-img img{
+        width: 100%;
+    }
+    
+    #about-part h6 {
+        margin-bottom: 30px;
+    }
+    
+    #about-part .details {
+        margin-top: 40px;
+    }
+    
+    #about-part .details p {
+        margin-bottom: 33px;
+    }
+    
+    #about-part .details ul {
+        margin-bottom: 25px;
+    }
+    
+    #about-part .details ul li {
+        font-size: 17px;
+        margin-bottom: 8px;
+    }
+    
+    #about-part .details ul li i {
+        width: 16px;
+        height: 16px;
+        line-height: 17px;
+        font-size: 9px;
+    }
+    
+    #about-part .details .about-button {
+        width: 160px;
+    }
+    
+    #about-part .details .about-button .button {
+        width: 160px;
+        height: 51px;
+        line-height: 51px;
+        font-size: 18px;
+    }
+
+    #about-part .about-img .round-shape {
+        display: none;
+    }
+
+    #about-part .shape-two {
+        display: none;
+    }
+    
+    /* ------------------------
+         about part end
+    ------------------------------*/
+    
+    /* ------------------------
+        marketing part start
+    ------------------------------*/
+    #marketing-part {
+        margin-bottom: 130px;
+    }
+    
+    #marketing-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #marketing-part .marketing-shape .shape-img {
+        display: none;
+    }
+ 
+   
+    #marketing-part .item {
+        margin-top: 20px;
+        padding: 20px 20px;
+    }
+
+    #marketing-part .item .img img{
+        width: 28%;
+    }
+    
+    #marketing-part .item h4 {
+        margin-bottom: 20px;
+        margin-top: 20px;
+        font-size: 19px;
+    }
+    
+    #marketing-part .item p {
+        margin-bottom: 20px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    #marketing-part .title .round-shape {
+        display: none;
+    }
+    
+    /* ------------------------
+        marketing part end
+    ------------------------------*/
+    
+    /* ------------------------
+        boost part start
+    ------------------------------*/
+    #boosts-part {
+        margin-bottom: 130px;
+    }
+    
+    #boosts-part .boosts-details {
+        margin-top: 40px;
+    }
+    
+    #boosts-part .boosts-details .input-group {
+        height: 46px;
+        margin-top: 35px;
+    }
+    
+    #boosts-part .boosts-details .input-group .form-control {
+        font-size: 13px;
+    }
+    
+    #boosts-part .boosts-details .boosts-button {
+        width: 195px;
+        margin-top: 35px;
+    }
+    
+    #boosts-part .boosts-details .boosts-button .button {
+        width: 195px;
+        height: 51px;
+        line-height: 51px;
+        font-size: 18px;
+    }
+    
+    #boosts-part .boosts-img{
+        text-align: center;
+    }
+    
+    #boosts-part .boosts-img img{
+        width: 100%;
+    }
+
+    #boosts-part .boosts-details .round-shape {
+        display: none;
+    }
+     
+    /* ------------------------
+        boost part end
+    ------------------------------*/
+    
+    /* ------------------------
+        pricing part start
+    ------------------------------*/
+    #pricing-part {
+        margin-bottom: 60px;
+    }
+
+    #pricing-part .item-col {
+        padding: 0 10px !important;
+    }
+    
+    #pricing-part .main-item {
+        display:contents;
+    }
+    
+    #pricing-part .item {
+        padding: 40px 30px;
+        margin-top: 40px;
+        width: 100%;
+    }
+
+    #pricing-part .item .img img {
+        width: 30%;
+    }
+
+    #pricing-part .item h1 {
+        font-size: 35px;
+        margin-top: 20px;
+    }
+    
+    #pricing-part .item .price-button {
+        width: 170px;
+    }
+    
+    #pricing-part .item .price-button .item-button {
+        width: 170px;
+        height: 47px;
+        font-size: 16px;
+        line-height: 47px;
+    }
+    
+    #pricing-part .regular-item {
+       padding: 40px 30px;
+        position: static !important;
+        width: 100%;
+       margin-top: 40px;
+    }
+
+    #pricing-part .regular-item .img img {
+        width: 30%;
+    }
+    
+    #pricing-part .regular-item h1 {
+        font-size: 35px;
+        margin-top: 20px;
+    }
+    
+    #pricing-part .regular-item .price-button {
+        width: 170px;
+    }
+
+    #pricing-part .regular-item .price-button .item-button {
+        width: 170px;
+        height: 47px;
+        font-size: 16px;
+        line-height: 47px;
+    }
+
+    #pricing-part .res-md{
+        margin: 0 auto;
+    }
+
+    #pricing-part .title .round-shape {
+        display: none;
+    }
+
+    #pricing-part .shape-one {
+        display: none;
+    }
+    
+    /* ------------------------
+        pricing part end
+    ------------------------------*/
+    
+    /* ------------------------
+        success part end
+    ------------------------------*/
+    #success-part {
+        margin-bottom: 130px;
+    }
+  
+    #success-part .success-img img{
+        width: 100%;
+    }
+    
+    #success-part .success-details .title h1 {
+        width: auto;
+    }
+    
+    #success-part .success-details .count-part {
+        margin-top: 20px;
+        text-align: center;
+    }
+    
+    #success-part .success-details .count-part .left-count{
+        margin-bottom: 30px;
+    }
+    
+    #success-part .success-details .count-part .left-count h2 {
+        font-size: 38px;
+    }
+    
+    #success-part .success-details .count-part .left-count h6 {
+        width: auto;
+        font-size: 17px;
+    }
+    
+    #success-part .success-details .count-part .middle-count{
+        margin-bottom: 30px;
+    }
+    
+    #success-part .success-details .count-part .middle-count h2 {
+        font-size: 38px;
+    }
+    
+    #success-part .success-details .count-part .middle-count h6 {
+        width: auto;
+        font-size: 17px;
+    }
+    
+    #success-part .success-details .count-part .right-count{
+        margin-bottom: 30px;
+    }
+    
+    #success-part .success-details .count-part .right-count h2 {
+        font-size: 38px;
+    }
+    
+    #success-part .success-details .count-part .right-count h6 {
+        width: auto;
+        font-size: 17px;
+    }
+    
+    #success-part .success-details .success-button {
+        width: 220px;
+        margin-top: 20px;
+    }
+    
+    #success-part .success-details .success-button .button {
+        width: 220px;
+        height: 51px;
+        line-height: 51px;
+        font-size: 18px;
+    }
+    
+    #success-part .success-img .round-shape {
+        display: none;
+    }
+    
+    /* ------------------------
+        success part end
+    ------------------------------*/
+    
+    /* ------------------------
+        services part start
+    ------------------------------*/
+    #services-part {
+        margin-bottom: 130px;
+    }
+    
+    #services-part .title {
+        margin-bottom: 45px;
+    }
+    
+    #services-part .services-slider .slider-box {
+        background: #ffffff;
+        padding: 25px 30px;
+        border-radius: 20px;
+        margin-bottom: 30px;
+    }
+    
+    #services-part .services-slider .slick-list {
+        padding-bottom: 120px !important;
+    }
+
+    #services-part .services-slider .slider-box .identity .img img {
+        width: 95%;
+        margin-top: 4px;
+    }
+
+    #services-part .services-slider .slider-box .identity .name {
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    #services-part .services-slider .slider-box .identity .name h4 {
+        font-size: 20px;
+    }
+
+    #services-part .services-slider .slider-box .identity .name h6 {
+        font-size: 16px;
+    }
+    
+    #services-part .services-slider .slider-box p {
+        padding: 0 0px;
+        margin-top: 20px;
+        text-align: justify;
+        line-height: 26px;
+        font-size: 16px;
+    }
+
+    #services-part .services-slider .slider-box .icon {
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+    
+    #services-part .services-slider .slider-box .icon i {
+        font-size: 17px;
+    }
+    
+    #services-part .services-img{
+        margin-top: 15px;
+    }
+    
+    #services-part .services-img img{
+        width: 100%;
+    }
+
+    #services-part .services-img .dot-shape {
+        bottom: -5px;
+        right: 40px;
+        width: 30%;
+    }
+    
+    #services-part .prev {
+        width: 30px;
+        height: 30px;
+        line-height: 29px;
+        font-size: 15px;
+        top: 107%;
+        left: 36%;
+        z-index: 3;
+    }
+    
+    #services-part .next {
+        width: 30px;
+        height: 30px;
+        line-height: 29px;
+        font-size: 15px;
+        top: 107%;
+        left: 49%;
+    }
+
+    #services-part .title .round-shape {
+        display: none;
+    }
+
+    #services-part .shape-two {
+        display: none;
+    }
+    
+    /* ------------------------
+        services part end
+    ------------------------------*/
+    
+    /* ------------------------
+        studies part start
+    ------------------------------*/
+    #studies-part {
+        margin-bottom: 130px;
+    }
+    
+    #studies-part .bg-box {
+        padding: 65px 20px 30px 20px;
+    }
+    
+    #studies-part .slick-dots {
+        margin-top: 40px;
+        padding-left: 0;
+    }
+    
+    #studies-part .title {
+        margin-bottom: 30px;
+    }
+
+    #studies-part .studies-slider .studies-item .iner-item {
+        padding: 30px 30px;
+    }
+
+    #studies-part .studies-slider .studies-item h3 {
+        font-size: 19px;
+        width: auto;
+    }
+
+    #studies-part .studies-slider .studies-item .iner-item .img img{
+        width: 100%;
+    }
+    
+    /* ------------------------
+        studies part end
+    ------------------------------*/
+    
+    /* ------------------------
+        news part start
+    ------------------------------*/
+    #news-part {
+        margin-bottom: 130px;
+    }
+    
+    #news-part .news-img{
+        text-align: center;
+    }
+    
+    #news-part .news-img img{
+        width: 100%;
+    }
+    
+    #news-part .news-details .input-group {
+        width: 420px;
+        height: 50px;
+        margin-top: 35px;
+    }
+    
+    #news-part .news-details .input-group .form-control {
+        font-size: 13px;
+    }
+    
+    #news-part .news-details .news-button {
+        width: 190px;
+        margin-top: 30px;
+    }
+    
+    #news-part .news-details .news-button .button {
+        width: 190px;
+        height: 51px;
+        line-height: 51px;
+        font-size: 18px;
+    }
+
+    #news-part .news-details .round-shape {
+        display: none;
+    }
+
+    #news-part .shape-one {
+        display: none;
+    }
+    
+    /* ------------------------
+        news part end
+    ------------------------------*/
+    
+    /* ------------------------
+        footer part start
+    ------------------------------*/
+    
+    #footer-part {
+        margin-bottom: 50px;
+    }
+    
+    #footer-part .footer-contain-bg {
+        padding: 50px 45px 0px 45px;
+    }
+
+    #footer-part .left-item .logo img{
+        width: 40%;
+    }
+    
+    #footer-part .left-item p {
+        font-size: 16px;
+        margin-top: 35px;
+    }
+    
+    #footer-part .middle-item {
+        padding-left: 40px;
+    }
+    
+    #footer-part .middle-item ul {
+        margin-top: 30px;
+    }
+     
+    #footer-part .right-item address {
+        margin-top: 30px;
+    }
+    
+    #footer-part .right-item address figure {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    
+    #footer-part .footer-contain-bg .main-item {
+        padding-bottom: 39px;
+    }
+    
+    #footer-part .footer-contain-bg .copy-right .main p {
+        font-size: 16px;
+        width: 60%;
+    }
+    
+    #footer-part .footer-contain-bg .copy-right .icon{
+        width: 45%;
+        text-align: right;
+    }
+    
+    #footer-part .footer-contain-bg .copy-right .main .icon i {
+        margin-top: 5px;
+    }
+    
+    /* ------------------------
+        footer part end
+    ------------------------------*/
+    
+    /* ------------------ Home page index.html css end -------------------- */
+
+    /* ------------------ About page about.html css end -------------------- */
+
+#about-title {
+	margin: 50px 0;
+}
+
+#about-title .title h5 {
+	margin-top: 14px;
+}
+
+#marketing-part .item {
+	margin-top: 30px;
+}
+
+#marketing-part .item .round {
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	top: 12px;
+	left: 17px;
+	font-size: 16px;
+}
+
+#marketing-part .item .hover-shape {
+	display: none;
+}
+
+#research-part {
+	margin-bottom: 60px;
+}
+
+#research-part .details{
+    margin-top: 40px;
+}
+
+#research-part .details h2 {
+	font-size: 27px;
+	line-height: 36px;
+	margin-bottom: 15px;
+}
+
+#research-part .details p {
+	margin-bottom: 18px;
+}
+
+#research-part .details ul {
+	margin-bottom: 25px;
+}
+
+#research-part .details ul li {
+	font-size: 16px;
+	margin-bottom: 8px;
+}
+
+#research-part .details ul li i {
+	width: 15px;
+	height: 15px;
+	line-height: 16px;
+	font-size: 9px;
+}
+
+#research-part .details .research-button{
+    width: 135px;
+}
+
+#research-part .details .research-button .button {
+	width: 160px;
+    height: 51px;
+    line-height: 51px;
+    font-size: 18px;
+}
+
+#research-part .research-img {
+    text-align: center;
+}
+
+#research-part .research-img img{
+    width: 100%;
+    margin-top: 40px;
+}
+
+#research-part .research-img .round-shape {
+	display: none;
+}
+
+#team-part {
+	margin-bottom: 70px;
+}
+
+#team-part .item{
+    margin-top: 20px;
+}
+
+#team-part .item .iner-item {
+	width: 100%;
+}
+
+#team-part .item .iner-item .img img {
+	left: -87px;
+}
+
+#team-part .item .iner-item .img .img-two {
+	left: -44px;
+}
+
+#team-part .item .iner-item .img .img-three {
+	left: -53px;
+}
+
+#team-part .item .iner-item .img .img-overlay {
+	height: 270px;
+	top: -2px;
+}
+
+#team-part .item h4 {
+	font-size: 18px;
+	margin-top: 20px;
+    margin-bottom: 0;
+}
+
+#team-part .item p {
+	font-size: 15px;
+}
+
+#services-part .services-img .round-shape {
+	display: none;
+}
+
+/* ------------------ About page index.html css end -------------------- */
+
+/* ------------------ Services page services.html css start -------------------- */
+
+#service-title {
+	margin: 100px 0;
+}
+
+#service-title .title h5 {
+	margin-top: 14px;
+}
+
+/* ------------------ Services page services.html css end -------------------- */
+
+
+/* ------------------ Pricing page pricing.html css start -------------------- */
+
+#priceing-title {
+	margin: 100px 0;
+}
+
+#priceing-title .title h5 {
+	margin-top: 14px;
+}
+
+
+#success-part .shape-one {
+	display: none;
+}
+
+/* ------------------ Pricing page pricing.html css end -------------------- */
+
+
+/* ------------------ Contact page contact.html css start -------------------- */
+
+#contact-title {
+	margin: 50px 0;
+}
+
+#contact-title .title h5 {
+	margin-top: 14px;
+}
+
+#contact-part {
+	margin-bottom: 60px;
+}
+
+#contact-part .contact-img{
+    text-align: center;
+    margin-top: 100px;
+}
+
+#contact-part .contact-img img{
+    width: 100%;
+}
+
+#contact-part .contact-details {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#contact-part .contact-details .input-group {
+	width: 380px;
+	height: 45px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#contact-part .contact-details .message-form {
+	width: 380px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#contact-part .contact-details .contact-button{
+    width: 160px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+#contact-part .contact-details .contact-button .button {
+	width: 160px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 16px;
+}
+
+#map-part {
+	margin-bottom: 60px;
+}
+
+#map-part .map-img img{
+    width: 100%;
+}
+
+#map-part .shape-one {
+    display: none;
+}
+
+#contact-part .contact-details .round-shape {
+	display: none;
+}
+
+
+/* ------------------ Contact page contact.html css end -------------------- */
+
+
+/* ------------------ Coming page coming.html css start -------------------- */
+#coming-part .coming-details {
+	margin-top: 130px;
+}
+
+#coming-part .coming-details h1 {
+	font-size: 70px;
+	line-height: 80px;
+	width: 666px;
+	margin-top: 90px;
+}
+
+#coming-part .coming-details h1 span {
+	font-size: 90px;
+}
+
+#coming-part .coming-details p {
+	font-size: 23px;
+	line-height: 38px;
+	margin-top: 38px;
+}
+
+#coming-part .coming-details .input-group {
+	width: auto;
+	height: 54px;
+	margin-top: 50px;
+}
+
+#coming-part .coming-details .input-group .form-control {
+	font-size: 16px;
+	padding-left: 25px;
+}
+
+#coming-part .coming-details .input-group .input-button .button {
+	height: 54px;
+	font-size: 18px;
+	line-height: 54px;
+}
+
+#coming-part .coming-details .copy-right {
+	margin-top: 200px;
+}
+
+/* ------------------ Coming page coming.html css end -------------------- */
+    
+    
+    /* ============================= */
+ }
